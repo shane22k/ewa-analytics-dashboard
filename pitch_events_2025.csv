@@ -1,0 +1,270 @@
+pitch_id,pa_id,game_id,inning,half,offense_team,batter,pitcher,pitch_number_in_pa,balls_before,strikes_before,pitch_result,is_first_pitch,is_two_strike_pitch,is_swing,is_whiff,is_contact
+26,7,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,1,0,0,ball,1,0,0,0,0
+27,7,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,2,1,0,called_strike,0,0,0,0,0
+28,7,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,3,1,1,ball,0,0,0,0,0
+29,7,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,4,2,1,swinging_strike,0,0,1,1,0
+30,7,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,5,2,2,ball,0,1,0,0,0
+31,7,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,6,3,2,foul,0,1,1,0,1
+32,7,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,7,3,2,foul_tip,0,1,1,0,1
+33,7,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,8,3,2,foul_tip,0,1,1,0,1
+34,8,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,1,0,0,swinging_strike,1,0,1,1,0
+35,8,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,2,0,1,ball,0,0,0,0,0
+36,8,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,3,1,1,foul,0,0,1,0,1
+37,8,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,4,1,2,ball,0,1,0,0,0
+38,8,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,5,2,2,ball,0,1,0,0,0
+39,8,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,6,3,2,foul,0,1,1,0,1
+40,8,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,7,3,2,foul,0,1,1,0,1
+41,8,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,8,3,2,foul,0,1,1,0,1
+42,8,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,9,3,2,ball,0,1,0,0,0
+43,9,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,1,0,0,ball,1,0,0,0,0
+44,9,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,2,1,0,ball,0,0,0,0,0
+45,9,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,3,2,0,ball,0,0,0,0,0
+46,9,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,4,3,0,in_play,0,0,1,0,1
+47,9,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,5,3,0,ball,0,0,0,0,0
+48,10,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,,1,0,0,ball,1,0,0,0,0
+49,10,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,,2,1,0,ball,0,0,0,0,0
+50,10,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,,3,2,0,called_strike,0,0,0,0,0
+51,10,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,,4,2,1,foul,0,0,1,0,1
+52,10,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,,5,2,2,in_play,0,1,1,0,1
+53,11,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,R Johnston,,1,0,0,ball,1,0,0,0,0
+54,11,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,R Johnston,,2,1,0,ball,0,0,0,0,0
+55,11,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,R Johnston,,3,2,0,in_play,0,0,1,0,1
+56,12,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+57,12,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,foul,0,0,1,0,1
+58,12,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,,,3,1,1,called_strike,0,0,0,0,0
+59,12,Game1_05-08-25,1,Bottom,East Wake Academy Varsity Eagles,,,4,1,2,swinging_strike,0,1,1,1,0
+88,20,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,1,0,0,foul,1,0,1,0,1
+89,20,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,2,0,1,ball,0,0,0,0,0
+90,20,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,3,1,1,in_play,0,0,1,0,1
+91,20,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,4,1,1,ball,0,0,0,0,0
+92,21,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,E Mason,,1,0,0,in_play,1,0,1,0,1
+93,21,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,E Mason,,2,0,0,ball,0,0,0,0,0
+94,22,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,,1,0,0,ball,1,0,0,0,0
+95,22,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,,2,1,0,in_play,0,0,1,0,1
+96,22,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,,3,1,0,ball,0,0,0,0,0
+97,23,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,1,0,0,ball,1,0,0,0,0
+98,23,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,2,1,0,foul,0,0,1,0,1
+99,23,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,3,1,1,ball,0,0,0,0,0
+100,23,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,4,2,1,ball,0,0,0,0,0
+101,23,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,5,3,1,ball,0,0,0,0,0
+102,24,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,J Driver,,1,0,0,ball,1,0,0,0,0
+103,24,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,J Driver,,2,1,0,foul,0,0,1,0,1
+104,24,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,J Driver,,3,1,1,foul,0,0,1,0,1
+105,24,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,J Driver,,4,1,2,in_play,0,1,1,0,1
+106,25,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,D Palmer,,1,0,0,in_play,1,0,1,0,1
+107,25,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,D Palmer,,2,0,0,ball,0,0,0,0,0
+108,26,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,W Dixon,,1,0,0,ball,1,0,0,0,0
+109,26,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,W Dixon,,2,1,0,foul,0,0,1,0,1
+110,26,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,W Dixon,,3,1,1,foul,0,0,1,0,1
+111,26,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,W Dixon,,4,1,2,swinging_strike,0,1,1,1,0
+112,27,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,R Johnston,,1,0,0,called_strike,1,0,0,0,0
+113,27,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,R Johnston,,2,0,1,foul,0,0,1,0,1
+114,27,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,R Johnston,,3,0,2,in_play,0,1,1,0,1
+115,27,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,R Johnston,,4,0,2,ball,0,1,0,0,0
+116,28,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,1,0,0,foul,1,0,1,0,1
+117,28,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,2,0,1,foul,0,0,1,0,1
+118,28,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,3,0,2,in_play,0,1,1,0,1
+119,29,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,1,0,0,ball,1,0,0,0,0
+120,29,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,2,1,0,swinging_strike,0,0,1,1,0
+121,29,Game1_05-08-25,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,3,1,1,in_play,0,0,1,0,1
+160,37,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,1,0,0,ball,1,0,0,0,0
+161,37,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,2,1,0,ball,0,0,0,0,0
+162,37,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,3,2,0,ball,0,0,0,0,0
+163,37,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,4,3,0,called_strike,0,0,0,0,0
+164,37,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,5,3,1,called_strike,0,0,0,0,0
+165,37,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,6,3,2,ball,0,1,0,0,0
+166,38,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,J Duffield,,1,0,0,ball,1,0,0,0,0
+167,38,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,J Duffield,,2,1,0,called_strike,0,0,0,0,0
+168,38,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,J Duffield,,3,1,1,swinging_strike,0,0,1,1,0
+169,38,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,J Duffield,,4,1,2,ball,0,1,0,0,0
+170,38,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,J Duffield,,5,2,2,ball,0,1,0,0,0
+171,38,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,J Duffield,,6,3,2,ball,0,1,0,0,0
+172,38,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,J Duffield,,7,4,2,in_play,0,1,1,0,1
+173,39,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,ball,1,0,0,0,0
+174,39,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,D Benton,,2,1,0,ball,0,0,0,0,0
+175,39,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,D Benton,,3,2,0,swinging_strike,0,0,1,1,0
+176,39,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,D Benton,,4,2,1,called_strike,0,0,0,0,0
+177,39,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,D Benton,,5,2,2,swinging_strike,0,1,1,1,0
+178,40,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+179,40,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,ball,0,0,0,0,0
+180,41,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,,1,0,0,called_strike,1,0,0,0,0
+181,41,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,,2,0,1,ball,0,0,0,0,0
+182,41,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,,3,1,1,ball,0,0,0,0,0
+183,41,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,,4,2,1,ball,0,0,0,0,0
+184,41,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,,5,3,1,ball,0,0,0,0,0
+185,42,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,1,0,0,called_strike,1,0,0,0,0
+186,42,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,2,0,1,ball,0,0,0,0,0
+187,42,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,3,1,1,swinging_strike,0,0,1,1,0
+188,42,Game1_05-08-25,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,4,1,2,swinging_strike,0,1,1,1,0
+204,47,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,1,0,0,called_strike,1,0,0,0,0
+205,47,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,2,0,1,called_strike,0,0,0,0,0
+206,47,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,3,0,2,foul,0,1,1,0,1
+207,47,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,4,0,2,ball,0,1,0,0,0
+208,47,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,5,1,2,ball,0,1,0,0,0
+209,47,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,6,2,2,called_strike,0,1,0,0,0
+210,48,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,L Collier,G Simmons,1,0,0,swinging_strike,1,0,1,1,0
+211,48,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,L Collier,G Simmons,2,0,1,called_strike,0,0,0,0,0
+212,48,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,L Collier,G Simmons,3,0,2,called_strike,0,1,0,0,0
+213,49,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,1,0,0,ball,1,0,0,0,0
+214,49,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,2,1,0,called_strike,0,0,0,0,0
+215,49,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,3,1,1,swinging_strike,0,0,1,1,0
+216,49,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,4,1,2,ball,0,1,0,0,0
+217,49,Game1_05-08-25,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,5,2,2,swinging_strike,0,1,1,1,0
+237,56,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,1,0,0,ball,1,0,0,0,0
+238,56,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,2,1,0,foul,0,0,1,0,1
+239,56,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,3,1,1,called_strike,0,0,0,0,0
+240,56,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,4,1,2,ball,0,1,0,0,0
+241,56,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,5,2,2,ball,0,1,0,0,0
+242,56,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,6,3,2,swinging_strike,0,1,1,1,0
+243,57,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,1,0,0,ball,1,0,0,0,0
+244,57,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,2,1,0,swinging_strike,0,0,1,1,0
+245,57,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,3,1,1,in_play,0,0,1,0,1
+246,57,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,4,1,1,ball,0,0,0,0,0
+247,58,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,ball,1,0,0,0,0
+248,58,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,D Benton,,2,1,0,in_play,0,0,1,0,1
+249,59,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,J Driver,,1,0,0,ball,1,0,0,0,0
+250,59,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,J Driver,,2,1,0,called_strike,0,0,0,0,0
+251,59,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,J Driver,,3,1,1,in_play,0,0,1,0,1
+252,61,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,K Bowen,1,0,0,ball,1,0,0,0,0
+253,61,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,K Bowen,2,1,0,called_strike,0,0,0,0,0
+254,61,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,K Bowen,3,1,1,ball,0,0,0,0,0
+255,61,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,K Bowen,4,2,1,called_strike,0,0,0,0,0
+256,61,Game1_05-08-25,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,K Bowen,5,2,2,swinging_strike,0,1,1,1,0
+272,65,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,R Johnston,,1,0,0,ball,1,0,0,0,0
+273,65,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,R Johnston,,2,1,0,called_strike,0,0,0,0,0
+274,65,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,R Johnston,,3,1,1,ball,0,0,0,0,0
+275,65,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,R Johnston,,4,2,1,in_play,0,0,1,0,1
+276,66,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,L Collier,,1,0,0,ball,1,0,0,0,0
+277,66,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,L Collier,,2,1,0,ball,0,0,0,0,0
+278,66,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,L Collier,,3,2,0,called_strike,0,0,0,0,0
+279,66,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,L Collier,,4,2,1,in_play,0,0,1,0,1
+280,67,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,A Gardner,,1,0,0,in_play,1,0,1,0,1
+281,68,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,E Mason,,1,0,0,ball,1,0,0,0,0
+282,68,Game1_05-08-25,6,Bottom,East Wake Academy Varsity Eagles,E Mason,,2,1,0,in_play,0,0,1,0,1
+307,76,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,K Bowen,1,0,0,called_strike,1,0,0,0,0
+308,76,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,K Bowen,2,0,1,ball,0,0,0,0,0
+309,76,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,K Bowen,3,1,1,called_strike,0,0,0,0,0
+310,76,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,K Bowen,4,1,2,called_strike,0,1,0,0,0
+311,77,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,called_strike,1,0,0,0,0
+312,77,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,D Benton,,2,0,1,ball,0,0,0,0,0
+313,77,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,D Benton,,3,1,1,foul,0,0,1,0,1
+314,77,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,D Benton,,4,1,2,ball,0,1,0,0,0
+315,77,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,D Benton,,5,2,2,foul,0,1,1,0,1
+316,77,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,D Benton,,6,2,2,in_play,0,1,1,0,1
+317,77,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,D Benton,,7,2,2,ball,0,1,0,0,0
+318,78,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,J Driver,,1,0,0,ball,1,0,0,0,0
+319,78,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,J Driver,,2,1,0,in_play,0,0,1,0,1
+320,78,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,J Driver,,3,1,0,ball,0,0,0,0,0
+321,79,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,D Palmer,K Bowen,1,0,0,ball,1,0,0,0,0
+322,80,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,W Dixon,,1,0,0,ball,1,0,0,0,0
+323,80,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,W Dixon,,2,1,0,ball,0,0,0,0,0
+324,80,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,W Dixon,,3,2,0,ball,0,0,0,0,0
+325,80,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,W Dixon,,4,3,0,ball,0,0,0,0,0
+326,81,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,R Johnston,,1,0,0,called_strike,1,0,0,0,0
+327,81,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,R Johnston,,2,0,1,in_play,0,0,1,0,1
+328,82,Game1_05-08-25,7,Bottom,East Wake Academy Varsity Eagles,L Collier,,1,0,0,in_play,1,0,1,0,1
+344,88,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,K Bowen,1,0,0,called_strike,1,0,0,0,0
+345,88,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,K Bowen,2,0,1,ball,0,0,0,0,0
+346,88,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,K Bowen,3,1,1,ball,0,0,0,0,0
+347,88,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,K Bowen,4,2,1,ball,0,0,0,0,0
+348,88,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,K Bowen,5,3,1,called_strike,0,0,0,0,0
+349,88,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,K Bowen,6,3,2,called_strike,0,1,0,0,0
+350,89,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,1,0,0,ball,1,0,0,0,0
+351,89,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,2,1,0,called_strike,0,0,0,0,0
+352,89,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,3,1,1,ball,0,0,0,0,0
+353,89,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,4,2,1,ball,0,0,0,0,0
+354,89,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,E Mason,K Bowen,5,3,1,ball,0,0,0,0,0
+355,90,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,J Duffield,,1,0,0,ball,1,0,0,0,0
+356,90,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,J Duffield,,2,1,0,called_strike,0,0,0,0,0
+357,90,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,J Duffield,,3,1,1,ball,0,0,0,0,0
+358,90,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,J Duffield,,4,2,1,in_play,0,0,1,0,1
+359,91,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,in_play,1,0,1,0,1
+360,91,Game1_05-08-25,8,Bottom,East Wake Academy Varsity Eagles,D Benton,,2,0,0,foul,0,0,1,0,1
+384,97,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,ball,1,0,0,0,0
+385,97,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,,2,1,0,called_strike,0,0,0,0,0
+386,97,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,D Benton,,3,1,1,in_play,0,0,1,0,1
+387,98,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,R Boren,1,0,0,called_strike,1,0,0,0,0
+388,98,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,J Driver,R Boren,2,0,1,ball,0,0,0,0,0
+389,99,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,1,0,0,ball,1,0,0,0,0
+390,99,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,2,1,0,ball,0,0,0,0,0
+391,99,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,3,2,0,ball,0,0,0,0,0
+392,99,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,4,3,0,in_play,0,0,1,0,1
+393,100,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,,1,0,0,ball,1,0,0,0,0
+394,100,Game2_05-07-25,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,,2,1,0,in_play,0,0,1,0,1
+423,107,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,J Fuentes,,1,0,0,called_strike,1,0,0,0,0
+424,107,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,J Fuentes,,2,0,1,foul,0,0,1,0,1
+425,107,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,J Fuentes,,3,0,2,in_play,0,1,1,0,1
+426,108,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,R Johnston,,1,0,0,in_play,1,0,1,0,1
+427,109,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,1,0,0,ball,1,0,0,0,0
+428,109,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,2,1,0,ball,0,0,0,0,0
+429,109,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,3,2,0,ball,0,0,0,0,0
+430,109,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,4,3,0,called_strike,0,0,0,0,0
+431,109,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,5,3,1,called_strike,0,0,0,0,0
+432,109,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,6,3,2,in_play,0,1,1,0,1
+433,110,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,M Brantley,,1,0,0,ball,1,0,0,0,0
+434,110,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,M Brantley,,2,1,0,ball,0,0,0,0,0
+435,110,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,M Brantley,,3,2,0,called_strike,0,0,0,0,0
+436,110,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,M Brantley,,4,2,1,foul,0,0,1,0,1
+437,110,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,M Brantley,,5,2,2,ball,0,1,0,0,0
+438,110,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,M Brantley,,6,3,2,in_play,0,1,1,0,1
+439,111,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,R Boren,1,0,0,called_strike,1,0,0,0,0
+440,111,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,R Boren,2,0,1,called_strike,0,0,0,0,0
+441,111,Game2_05-07-25,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,R Boren,3,0,2,swinging_strike,0,1,1,1,0
+455,115,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,in_play,1,0,1,0,1
+456,116,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,J Driver,,1,0,0,foul,1,0,1,0,1
+457,116,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,J Driver,,2,0,1,foul,0,0,1,0,1
+458,116,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,J Driver,,3,0,2,in_play,0,1,1,0,1
+459,117,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,R Boren,1,0,0,ball,1,0,0,0,0
+460,117,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,R Boren,2,1,0,ball,0,0,0,0,0
+461,117,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,R Boren,3,2,0,ball,0,0,0,0,0
+462,117,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,R Boren,4,3,0,ball,0,0,0,0,0
+463,118,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+464,118,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,foul,0,0,1,0,1
+465,118,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,,,3,1,1,foul,0,0,1,0,1
+466,118,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,,,4,1,2,ball,0,1,0,0,0
+467,119,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,J Fuentes,,1,0,0,foul,1,0,1,0,1
+468,119,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,J Fuentes,,2,0,1,foul,0,0,1,0,1
+469,119,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,J Fuentes,,3,0,2,ball,0,1,0,0,0
+470,119,Game2_05-07-25,3,Bottom,East Wake Academy Varsity Eagles,J Fuentes,,4,1,2,in_play,0,1,1,0,1
+499,125,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,,1,0,0,ball,1,0,0,0,0
+500,125,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,,2,1,0,called_strike,0,0,0,0,0
+501,125,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,,3,1,1,in_play,0,0,1,0,1
+502,126,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,1,0,0,swinging_strike,1,0,1,1,0
+503,126,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,2,0,1,called_strike,0,0,0,0,0
+504,126,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,3,0,2,foul,0,1,1,0,1
+505,126,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,4,0,2,ball,0,1,0,0,0
+506,126,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,5,1,2,in_play,0,1,1,0,1
+507,127,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,M Brantley,,1,0,0,ball,1,0,0,0,0
+508,127,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,M Brantley,,2,1,0,called_strike,0,0,0,0,0
+509,127,Game2_05-07-25,4,Bottom,East Wake Academy Varsity Eagles,M Brantley,,3,1,1,in_play,0,0,1,0,1
+521,132,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,1,0,0,swinging_strike,1,0,1,1,0
+522,132,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,2,0,1,ball,0,0,0,0,0
+523,132,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,3,1,1,ball,0,0,0,0,0
+524,132,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,4,2,1,swinging_strike,0,0,1,1,0
+525,132,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,5,2,2,in_play,0,1,1,0,1
+526,133,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,ball,1,0,0,0,0
+527,133,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,D Benton,,2,1,0,ball,0,0,0,0,0
+528,133,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,D Benton,,3,2,0,foul,0,0,1,0,1
+529,133,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,D Benton,,4,2,1,in_play,0,0,1,0,1
+530,134,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,J Driver,,1,0,0,in_play,1,0,1,0,1
+531,135,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,R Boren,1,0,0,ball,1,0,0,0,0
+532,135,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,R Boren,2,1,0,foul,0,0,1,0,1
+533,135,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,R Boren,3,1,1,called_strike,0,0,0,0,0
+534,135,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,R Boren,4,1,2,ball,0,1,0,0,0
+535,135,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,R Boren,5,2,2,foul,0,1,1,0,1
+536,135,Game2_05-07-25,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,R Boren,6,2,2,called_strike,0,1,0,0,0
+551,139,Game2_05-07-25,6,Bottom,East Wake Academy Varsity Eagles,W Dixon,,1,0,0,ball,1,0,0,0,0
+552,139,Game2_05-07-25,6,Bottom,East Wake Academy Varsity Eagles,W Dixon,,2,1,0,swinging_strike,0,0,1,1,0
+553,139,Game2_05-07-25,6,Bottom,East Wake Academy Varsity Eagles,W Dixon,,3,1,1,in_play,0,0,1,0,1
+554,140,Game2_05-07-25,6,Bottom,East Wake Academy Varsity Eagles,J Fuentes,,1,0,0,ball,1,0,0,0,0
+555,140,Game2_05-07-25,6,Bottom,East Wake Academy Varsity Eagles,J Fuentes,,2,1,0,in_play,0,0,1,0,1
+556,141,Game2_05-07-25,6,Bottom,East Wake Academy Varsity Eagles,R Johnston,,1,0,0,ball,1,0,0,0,0
+557,141,Game2_05-07-25,6,Bottom,East Wake Academy Varsity Eagles,R Johnston,,2,1,0,in_play,0,0,1,0,1
+570,147,Game2_05-07-25,7,Bottom,East Wake Academy Varsity Eagles,L Collier,,1,0,0,ball,1,0,0,0,0
+571,147,Game2_05-07-25,7,Bottom,East Wake Academy Varsity Eagles,L Collier,,2,1,0,called_strike,0,0,0,0,0
+572,147,Game2_05-07-25,7,Bottom,East Wake Academy Varsity Eagles,L Collier,,3,1,1,in_play,0,0,1,0,1
+573,148,Game2_05-07-25,7,Bottom,East Wake Academy Varsity Eagles,E Mason,,1,0,0,foul,1,0,1,0,1
+574,148,Game2_05-07-25,7,Bottom,East Wake Academy Varsity Eagles,E Mason,,2,0,1,in_play,0,0,1,0,1
+575,149,Game2_05-07-25,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,,1,0,0,ball,1,0,0,0,0
+576,149,Game2_05-07-25,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,,2,1,0,in_play,0,0,1,0,1
+577,150,Game2_05-07-25,7,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,in_play,1,0,1,0,1

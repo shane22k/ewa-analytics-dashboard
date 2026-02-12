@@ -1,0 +1,44 @@
+game_id,inning,half,offense_team,batter,event_line,event_type,position,fielder
+Game1_05-08-25,1,Top,East Columbus Varsity Gators,K Bowen,"K Bowen singles on a hard ground ball to left fielder W Dixon, B Waddell scores.",ball_to,LF,W Dixon
+Game1_05-08-25,1,Top,East Columbus Varsity Gators,K Coker,"K Coker flies out to right fielder D Benton, K Bowen remains at 1st.",putout,RF,D Benton
+Game1_05-08-25,1,Top,East Columbus Varsity Gators,G Simmons,"G Simmons grounds out to third baseman L Collier, K Bowen advances to 2nd.",putout,3B,L Collier
+Game1_05-08-25,2,Top,East Columbus Varsity Gators,L Jacobs,L Jacobs grounds out to second baseman E Mason.,putout,2B,E Mason
+Game1_05-08-25,2,Top,East Columbus Varsity Gators,N Rye,N Rye flies out to first baseman J Brown.,putout,1B,J Brown
+Game1_05-08-25,2,Top,East Columbus Varsity Gators,M Freeman,M Freeman singles on a line drive to right fielder D Benton.,ball_to,RF,D Benton
+Game1_05-08-25,2,Top,East Columbus Varsity Gators,B Waddell,"B Waddell singles on a hard ground ball to right fielder D Benton, M Freeman scores.",ball_to,RF,D Benton
+Game1_05-08-25,2,Top,East Columbus Varsity Gators,K Bowen,"K Bowen singles on a hard ground ball to center fielder J Duffield, B Waddell scores.",ball_to,CF,J Duffield
+Game1_05-08-25,2,Top,East Columbus Varsity Gators,G Simmons,G Simmons flies out to right fielder D Benton.,putout,RF,D Benton
+Game1_05-08-25,3,Top,East Columbus Varsity Gators,L Jacobs,"L Jacobs hits a ground ball and reaches on an error by shortstop R Johnston, A Jenerette scores, B Mclean advances to 2nd.",error,SS,R Johnston
+Game1_05-08-25,3,Top,East Columbus Varsity Gators,N Rye,"N Rye singles on a bunt to third baseman L Collier, B Mclean advances to 3rd, L Jacobs advances to 2nd.",ball_to,3B,L Collier
+Game1_05-08-25,3,Top,East Columbus Varsity Gators,M Freeman,"M Freeman grounds into fielder's choice to shortstop R Johnston, B Mclean out advancing to home, L Jacobs advances to 3rd, N Rye advances to 2nd.",putout,SS,R Johnston
+Game1_05-08-25,4,Top,East Columbus Varsity Gators,A Jenerette,"A Jenerette grounds out to third baseman L Collier, D Dexter advances to 2nd.",putout,3B,L Collier
+Game1_05-08-25,5,Top,East Columbus Varsity Gators,M Freeman,"M Freeman singles on a line drive to right fielder D Benton, L Jacobs advances to 3rd.",ball_to,RF,D Benton
+Game1_05-08-25,5,Top,East Columbus Varsity Gators,K Bowen,K Bowen hits a ground ball and reaches on an error by shortstop R Johnston.,error,SS,R Johnston.
+Game1_05-08-25,5,Top,East Columbus Varsity Gators,K Coker,"K Coker flies into a double play to left fielder W Dixon, K Bowen out advancing to 1st.",putout,LF,W Dixon
+Game1_05-08-25,6,Top,East Columbus Varsity Gators,G Simmons,G Simmons grounds out to first baseman J Driver.,putout,1B,J Driver
+Game1_05-08-25,6,Top,East Columbus Varsity Gators,B Mclean,B Mclean lines out to first baseman J Driver.,putout,1B,J Driver
+Game1_05-08-25,7,Top,East Columbus Varsity Gators,K Bowen,"K Bowen grounds out to second baseman E Mason, N Rye scores, M Freeman advances to 3rd, B Waddell advances to 2nd.",putout,2B,E Mason
+Game1_05-08-25,7,Top,East Columbus Varsity Gators,G Simmons,G Simmons flies out to center fielder J Duffield.,putout,CF,J Duffield
+Game1_05-08-25,8,Top,East Columbus Varsity Gators,B Mclean,"B Mclean singles on a line drive to center fielder J Duffield, A Jenerette scores.",ball_to,CF,J Duffield
+Game1_05-08-25,8,Top,East Columbus Varsity Gators,L Jacobs,"L Jacobs grounds into a double play to shortstop R Johnston, B Mclean out advancing to 2nd.",putout,SS,R Johnston
+Game1_05-08-25,8,Top,East Columbus Varsity Gators,N Rye,N Rye singles on a ground ball to third baseman W Dixon.,ball_to,3B,W Dixon
+Game2_05-07-25,1,Top,Rosewood Varsity Eagles,R Boren,R Boren grounds out to shortstop J Fuentes.,putout,SS,J Fuentes
+Game2_05-07-25,1,Top,Rosewood Varsity Eagles,E Gardner,E Gardner grounds out to third baseman L Collier.,putout,3B,L Collier
+Game2_05-07-25,1,Top,Rosewood Varsity Eagles,J Adams,"J Adams hits a fly ball and reaches on an error by center fielder J Duffield, J Adams advances to 2nd on the same error.",error,CF,J Duffield
+Game2_05-07-25,1,Top,Rosewood Varsity Eagles,C Rye,"C Rye doubles on a fly ball to left fielder W Dixon, J Adams scores.",ball_to,LF,W Dixon
+Game2_05-07-25,2,Top,Rosewood Varsity Eagles,B Waters,"B Waters hits a ground ball and reaches on an error by third baseman L Collier, J Lund advances to 2nd.",error,3B,L Collier
+Game2_05-07-25,2,Top,Rosewood Varsity Eagles,C Jones,"C Jones singles on a ground ball to right fielder D Benton, J Lund scores, B Waters advances to 3rd, J Bond advances to 2nd.",ball_to,RF,D Benton
+Game2_05-07-25,2,Top,Rosewood Varsity Eagles,R Boren,"R Boren flies into a double play, center fielder J Duffield to first baseman J Driver, J Bond doubled off at 2nd, B Waters remains at 3rd, C Jones remains at 1st.",putout,1B,J Driver
+Game2_05-07-25,2,Top,Rosewood Varsity Eagles,E Gardner,E Gardner grounds out to first baseman J Driver.,putout,1B,J Driver
+Game2_05-07-25,3,Top,Rosewood Varsity Eagles,G Lassiter,G Lassiter grounds out to second baseman R Johnston.,putout,2B,R Johnston
+Game2_05-07-25,4,Top,Rosewood Varsity Eagles,J Lund,J Lund flies out to center fielder J Duffield.,putout,CF,J Duffield
+Game2_05-07-25,4,Top,Rosewood Varsity Eagles,B Waters,B Waters singles on a line drive to left fielder W Dixon.,ball_to,LF,W Dixon
+Game2_05-07-25,4,Top,Rosewood Varsity Eagles,C Jones,"C Jones hits a ground ball and reaches on an error by shortstop J Fuentes, B Waters advances to 2nd.",error,SS,J Fuentes
+Game2_05-07-25,5,Top,Rosewood Varsity Eagles,E Gardner,E Gardner hits a fly ball and reaches on an error by center fielder J Duffield.,error,CF,J Duffield.
+Game2_05-07-25,5,Top,Rosewood Varsity Eagles,J Adams,"J Adams flies out to center fielder J Duffield, E Gardner advances to 3rd after tagging up.",putout,CF,J Duffield
+Game2_05-07-25,5,Top,Rosewood Varsity Eagles,G Lassiter,G Lassiter grounds out to pitcher M Brantley.,putout,P,M Brantley
+Game2_05-07-25,6,Top,Rosewood Varsity Eagles,J Lund,J Lund flies out to first baseman J Driver.,putout,1B,J Driver
+Game2_05-07-25,6,Top,Rosewood Varsity Eagles,B Waters,B Waters grounds out to third baseman L Collier.,putout,3B,L Collier
+Game2_05-07-25,7,Top,Rosewood Varsity Eagles,C Jones,C Jones grounds out to third baseman R Johnston.,putout,3B,R Johnston
+Game2_05-07-25,7,Top,Rosewood Varsity Eagles,R Boren,R Boren singles on a line drive to center fielder J Duffield.,ball_to,CF,J Duffield
+Game2_05-07-25,7,Top,Rosewood Varsity Eagles,E Gardner,"E Gardner grounds out to second baseman E Mason, Z Tadlock advances to 2nd.",putout,2B,E Mason

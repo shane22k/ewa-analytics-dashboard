@@ -1,0 +1,292 @@
+pitch_id,pa_id,game_id,inning,half,offense_team,batter,pitcher,pitch_number_in_pa,balls_before,strikes_before,pitch_result,is_first_pitch,is_two_strike_pitch,is_swing,is_whiff,is_contact
+1,1,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,,1,0,0,ball,1,0,0,0,0
+2,1,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,,2,1,0,foul,0,0,1,0,1
+3,1,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,,3,1,1,swinging_strike,0,0,1,1,0
+4,1,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,,4,1,2,ball,0,1,0,0,0
+5,1,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,,5,2,2,swinging_strike,0,1,1,1,0
+6,2,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+7,2,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,,,2,1,0,in_play,0,0,1,0,1
+8,3,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Palmer,,1,0,0,ball,1,0,0,0,0
+9,3,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Palmer,,2,1,0,foul,0,0,1,0,1
+10,3,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Palmer,,3,1,1,foul,0,0,1,0,1
+11,3,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Palmer,,4,1,2,ball,0,1,0,0,0
+12,3,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Palmer,,5,2,2,called_strike,0,1,0,0,0
+40,11,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,1,0,0,ball,1,0,0,0,0
+41,11,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,2,1,0,ball,0,0,0,0,0
+42,11,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,3,2,0,called_strike,0,0,0,0,0
+43,11,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,4,2,1,called_strike,0,0,0,0,0
+44,11,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,5,2,2,foul_tip,0,1,1,0,1
+45,11,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,6,2,2,foul_tip,0,1,1,0,1
+46,12,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,1,0,0,ball,1,0,0,0,0
+47,12,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,2,1,0,foul,0,0,1,0,1
+48,12,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,3,1,1,ball,0,0,0,0,0
+49,12,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,4,2,1,called_strike,0,0,0,0,0
+50,12,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,5,2,2,ball,0,1,0,0,0
+51,12,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,6,3,2,swinging_strike,0,1,1,1,0
+52,13,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,L McDonald,1,0,0,called_strike,1,0,0,0,0
+53,13,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,L McDonald,2,0,1,called_strike,0,0,0,0,0
+54,13,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,L McDonald,3,0,2,ball,0,1,0,0,0
+55,13,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,L McDonald,4,1,2,foul,0,1,1,0,1
+56,13,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,L McDonald,5,1,2,swinging_strike,0,1,1,1,0
+73,18,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,A Gardner,L McDonald,1,0,0,called_strike,1,0,0,0,0
+74,18,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,A Gardner,L McDonald,2,0,1,swinging_strike,0,0,1,1,0
+75,18,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,A Gardner,L McDonald,3,0,2,ball,0,1,0,0,0
+76,18,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,A Gardner,L McDonald,4,1,2,swinging_strike,0,1,1,1,0
+77,19,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,M Brantley,L McDonald,1,0,0,called_strike,1,0,0,0,0
+78,19,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,M Brantley,L McDonald,2,0,1,ball,0,0,0,0,0
+79,19,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,M Brantley,L McDonald,3,1,1,ball,0,0,0,0,0
+80,19,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,M Brantley,L McDonald,4,2,1,ball,0,0,0,0,0
+81,19,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,M Brantley,L McDonald,5,3,1,ball,0,0,0,0,0
+82,20,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,J Duffield,L McDonald,1,0,0,swinging_strike,1,0,1,1,0
+83,20,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,J Duffield,L McDonald,2,0,1,called_strike,0,0,0,0,0
+84,20,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,J Duffield,L McDonald,3,0,2,ball,0,1,0,0,0
+85,20,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,J Duffield,L McDonald,4,1,2,ball,0,1,0,0,0
+86,20,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,J Duffield,L McDonald,5,2,2,called_strike,0,1,0,0,0
+87,21,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,L McDonald,1,0,0,ball,1,0,0,0,0
+88,21,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,L McDonald,2,1,0,ball,0,0,0,0,0
+89,21,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,L McDonald,3,2,0,called_strike,0,0,0,0,0
+90,21,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,L McDonald,4,2,1,ball,0,0,0,0,0
+91,21,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,L McDonald,5,3,1,foul,0,0,1,0,1
+92,21,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,L McDonald,6,3,2,ball,0,1,0,0,0
+93,22,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,L McDonald,1,0,0,swinging_strike,1,0,1,1,0
+94,22,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,L McDonald,2,0,1,called_strike,0,0,0,0,0
+95,22,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,L McDonald,3,0,2,foul,0,1,1,0,1
+96,22,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,L McDonald,4,0,2,ball,0,1,0,0,0
+139,31,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Driver,L McDonald,1,0,0,in_play,1,0,1,0,1
+140,32,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,L McDonald,1,0,0,called_strike,1,0,0,0,0
+141,32,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,L McDonald,2,0,1,ball,0,0,0,0,0
+142,32,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,L McDonald,3,1,1,ball,0,0,0,0,0
+143,32,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,L McDonald,4,2,1,in_play,0,0,1,0,1
+144,32,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,L McDonald,5,2,1,ball,0,0,0,0,0
+145,33,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,1,0,0,ball,1,0,0,0,0
+146,33,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,2,1,0,called_strike,0,0,0,0,0
+147,33,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,3,1,1,called_strike,0,0,0,0,0
+148,33,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,4,1,2,in_play,0,1,1,0,1
+149,33,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,R Johnston,L McDonald,5,1,2,ball,0,1,0,0,0
+150,34,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,1,0,0,swinging_strike,1,0,1,1,0
+151,34,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,2,0,1,foul,0,0,1,0,1
+152,34,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,3,0,2,ball,0,1,0,0,0
+153,34,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,4,1,2,in_play,0,1,1,0,1
+154,34,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Fuentes,L McDonald,5,1,2,ball,0,1,0,0,0
+155,35,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,L McDonald,1,0,0,swinging_strike,1,0,1,1,0
+156,35,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,L McDonald,2,0,1,ball,0,0,0,0,0
+157,35,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,L McDonald,3,1,1,swinging_strike,0,0,1,1,0
+158,35,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,L McDonald,4,1,2,in_play,0,1,1,0,1
+159,36,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,L McDonald,1,0,0,foul,1,0,1,0,1
+160,36,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,L McDonald,2,0,1,called_strike,0,0,0,0,0
+161,36,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,L McDonald,3,0,2,foul,0,1,1,0,1
+162,36,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,L McDonald,4,0,2,foul,0,1,1,0,1
+163,36,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,L McDonald,5,0,2,ball,0,1,0,0,0
+164,36,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,L McDonald,6,1,2,in_play,0,1,1,0,1
+165,37,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,M Brantley,L McDonald,1,0,0,called_strike,1,0,0,0,0
+166,37,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,M Brantley,L McDonald,2,0,1,ball,0,0,0,0,0
+167,37,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,M Brantley,L McDonald,3,1,1,ball,0,0,0,0,0
+168,37,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,M Brantley,L McDonald,4,2,1,foul,0,0,1,0,1
+169,37,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,M Brantley,L McDonald,5,2,2,called_strike,0,1,0,0,0
+191,43,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,L McDonald,1,0,0,swinging_strike,1,0,1,1,0
+192,43,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,L McDonald,2,0,1,ball,0,0,0,0,0
+193,43,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,L McDonald,3,1,1,in_play,0,0,1,0,1
+194,44,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,L McDonald,1,0,0,ball,1,0,0,0,0
+195,44,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,L McDonald,2,1,0,ball,0,0,0,0,0
+196,44,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,L McDonald,3,2,0,called_strike,0,0,0,0,0
+197,44,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,L McDonald,4,2,1,in_play,0,0,1,0,1
+198,45,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Driver,A Rahming,1,0,0,called_strike,1,0,0,0,0
+199,45,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Driver,A Rahming,2,0,1,ball,0,0,0,0,0
+200,46,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Palmer,A Rahming,1,0,0,called_strike,1,0,0,0,0
+201,46,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Palmer,A Rahming,2,0,1,foul,0,0,1,0,1
+202,46,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Palmer,A Rahming,3,0,2,foul_tip,0,1,1,0,1
+203,46,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Palmer,A Rahming,4,0,2,foul_tip,0,1,1,0,1
+216,50,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,A Rahming,1,0,0,ball,1,0,0,0,0
+217,50,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,A Rahming,2,1,0,called_strike,0,0,0,0,0
+218,50,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,A Rahming,3,1,1,called_strike,0,0,0,0,0
+219,50,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,A Rahming,4,1,2,swinging_strike,0,1,1,1,0
+220,51,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,A Rahming,1,0,0,ball,1,0,0,0,0
+221,51,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,A Rahming,2,1,0,ball,0,0,0,0,0
+222,51,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,A Rahming,3,2,0,called_strike,0,0,0,0,0
+223,51,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,A Rahming,4,2,1,called_strike,0,0,0,0,0
+224,51,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,A Rahming,5,2,2,swinging_strike,0,1,1,1,0
+225,52,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,A Rahming,1,0,0,ball,1,0,0,0,0
+226,52,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,A Rahming,2,1,0,foul,0,0,1,0,1
+227,52,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,A Rahming,3,1,1,foul,0,0,1,0,1
+228,52,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,A Rahming,4,1,2,swinging_strike,0,1,1,1,0
+237,57,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,A Gardner,A Rahming,1,0,0,foul,1,0,1,0,1
+238,57,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,A Gardner,A Rahming,2,0,1,in_play,0,0,1,0,1
+239,58,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,M Brantley,A Rahming,1,0,0,ball,1,0,0,0,0
+240,58,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,M Brantley,A Rahming,2,1,0,swinging_strike,0,0,1,1,0
+241,58,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,M Brantley,A Rahming,3,1,1,ball,0,0,0,0,0
+242,58,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,M Brantley,A Rahming,4,2,1,foul,0,0,1,0,1
+243,58,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,M Brantley,A Rahming,5,2,2,swinging_strike,0,1,1,1,0
+244,59,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,J Duffield,A Rahming,1,0,0,ball,1,0,0,0,0
+245,59,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,J Duffield,A Rahming,2,1,0,called_strike,0,0,0,0,0
+246,59,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,J Duffield,A Rahming,3,1,1,ball,0,0,0,0,0
+247,59,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,J Duffield,A Rahming,4,2,1,called_strike,0,0,0,0,0
+248,59,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,J Duffield,A Rahming,5,2,2,ball,0,1,0,0,0
+249,59,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,J Duffield,A Rahming,6,3,2,called_strike,0,1,0,0,0
+250,60,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,1,0,0,ball,1,0,0,0,0
+251,60,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,2,1,0,foul,0,0,1,0,1
+252,60,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,3,1,1,swinging_strike,0,0,1,1,0
+253,60,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,4,1,2,foul_tip,0,1,1,0,1
+254,60,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,5,1,2,foul_tip,0,1,1,0,1
+255,61,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,1,0,0,ball,1,0,0,0,0
+256,61,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,2,1,0,called_strike,0,0,0,0,0
+257,61,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,3,1,1,ball,0,0,0,0,0
+258,61,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,4,2,1,in_play,0,0,1,0,1
+259,61,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,5,2,1,ball,0,0,0,0,0
+260,62,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,1,0,0,called_strike,1,0,0,0,0
+261,62,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,2,0,1,ball,0,0,0,0,0
+262,62,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,3,1,1,in_play,0,0,1,0,1
+263,63,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,ball,1,0,0,0,0
+264,63,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,,W Holmes,2,1,0,ball,0,0,0,0,0
+265,63,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,,W Holmes,3,2,0,in_play,0,0,1,0,1
+266,64,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,1,0,0,ball,1,0,0,0,0
+267,64,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,2,1,0,ball,0,0,0,0,0
+268,64,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,3,2,0,swinging_strike,0,0,1,1,0
+269,64,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,4,2,1,called_strike,0,0,0,0,0
+270,64,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,5,2,2,ball,0,1,0,0,0
+271,64,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,6,3,2,ball,0,1,0,0,0
+272,64,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,7,4,2,called_strike,0,1,0,0,0
+306,71,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,1,0,0,ball,1,0,0,0,0
+307,71,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,2,1,0,foul,0,0,1,0,1
+308,71,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,3,1,1,swinging_strike,0,0,1,1,0
+309,71,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,4,1,2,swinging_strike,0,1,1,1,0
+310,72,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,swinging_strike,1,0,1,1,0
+311,72,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,,W Holmes,2,0,1,in_play,0,0,1,0,1
+312,73,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,1,0,0,ball,1,0,0,0,0
+313,73,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,2,1,0,called_strike,0,0,0,0,0
+314,73,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,3,1,1,ball,0,0,0,0,0
+315,73,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,4,2,1,ball,0,0,0,0,0
+316,73,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,5,3,1,ball,0,0,0,0,0
+317,74,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,1,0,0,called_strike,1,0,0,0,0
+318,74,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,2,0,1,ball,0,0,0,0,0
+319,74,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,3,1,1,ball,0,0,0,0,0
+320,74,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,4,2,1,called_strike,0,0,0,0,0
+321,74,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,5,2,2,ball,0,1,0,0,0
+322,74,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,6,3,2,ball,0,1,0,0,0
+323,75,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,1,0,0,called_strike,1,0,0,0,0
+324,75,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,2,0,1,in_play,0,0,1,0,1
+325,76,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,called_strike,1,0,0,0,0
+326,76,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,,W Holmes,2,0,1,in_play,0,0,1,0,1
+358,84,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,1,0,0,ball,1,0,0,0,0
+359,84,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,2,1,0,in_play,0,0,1,0,1
+360,85,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,1,0,0,called_strike,1,0,0,0,0
+361,85,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,2,0,1,ball,0,0,0,0,0
+362,85,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,3,1,1,ball,0,0,0,0,0
+363,85,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,4,2,1,foul,0,0,1,0,1
+364,85,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,5,2,2,called_strike,0,1,0,0,0
+365,86,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,in_play,1,0,1,0,1
+366,87,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,called_strike,1,0,0,0,0
+367,87,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,W Holmes,2,0,1,in_play,0,0,1,0,1
+368,87,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,W Holmes,3,0,1,foul,0,0,1,0,1
+393,93,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,ball,1,0,0,0,0
+394,93,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,2,1,0,in_play,0,0,1,0,1
+395,94,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,1,0,0,in_play,1,0,1,0,1
+396,94,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,2,0,0,ball,0,0,0,0,0
+397,95,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,1,0,0,called_strike,1,0,0,0,0
+398,95,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,2,0,1,ball,0,0,0,0,0
+399,95,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,3,1,1,called_strike,0,0,0,0,0
+400,95,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,4,1,2,ball,0,1,0,0,0
+401,95,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,5,2,2,swinging_strike,0,1,1,1,0
+402,96,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,called_strike,1,0,0,0,0
+403,96,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,2,0,1,ball,0,0,0,0,0
+404,96,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,3,1,1,ball,0,0,0,0,0
+405,96,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,4,2,1,ball,0,0,0,0,0
+406,96,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,5,3,1,ball,0,0,0,0,0
+407,96,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,6,4,1,ball,0,0,0,0,0
+408,97,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,1,0,0,ball,1,0,0,0,0
+409,97,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,2,1,0,foul,0,0,1,0,1
+410,97,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,3,1,1,ball,0,0,0,0,0
+411,97,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,4,2,1,in_play,0,0,1,0,1
+412,98,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,1,0,0,ball,1,0,0,0,0
+413,98,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,2,1,0,foul,0,0,1,0,1
+414,98,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,3,1,1,ball,0,0,0,0,0
+415,98,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,4,2,1,ball,0,0,0,0,0
+416,98,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,5,3,1,ball,0,0,0,0,0
+417,99,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,1,0,0,ball,1,0,0,0,0
+418,99,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,2,1,0,ball,0,0,0,0,0
+419,99,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,3,2,0,ball,0,0,0,0,0
+420,99,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,4,3,0,called_strike,0,0,0,0,0
+421,99,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,5,3,1,ball,0,0,0,0,0
+422,100,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,ball,1,0,0,0,0
+423,100,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,2,1,0,called_strike,0,0,0,0,0
+424,100,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,W Holmes,3,1,1,in_play,0,0,1,0,1
+451,106,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,1,0,0,ball,1,0,0,0,0
+452,106,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,2,1,0,called_strike,0,0,0,0,0
+453,106,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,3,1,1,ball,0,0,0,0,0
+454,106,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,4,2,1,swinging_strike,0,0,1,1,0
+455,106,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,5,2,2,ball,0,1,0,0,0
+456,106,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,6,3,2,swinging_strike,0,1,1,1,0
+457,107,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,A Gardner,W Holmes,1,0,0,in_play,1,0,1,0,1
+458,107,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,A Gardner,W Holmes,2,0,0,ball,0,0,0,0,0
+459,108,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,1,0,0,ball,1,0,0,0,0
+460,108,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,2,1,0,called_strike,0,0,0,0,0
+461,108,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,3,1,1,foul,0,0,1,0,1
+462,108,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,4,1,2,ball,0,1,0,0,0
+463,108,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,5,2,2,foul,0,1,1,0,1
+464,108,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,6,2,2,ball,0,1,0,0,0
+465,108,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,7,3,2,in_play,0,1,1,0,1
+466,108,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,8,3,2,ball,0,1,0,0,0
+467,109,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,1,0,0,ball,1,0,0,0,0
+468,109,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,2,1,0,ball,0,0,0,0,0
+469,109,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,3,2,0,ball,0,0,0,0,0
+470,109,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,4,3,0,ball,0,0,0,0,0
+471,110,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,1,0,0,ball,1,0,0,0,0
+472,110,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,2,1,0,ball,0,0,0,0,0
+473,110,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,3,2,0,ball,0,0,0,0,0
+474,110,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,4,3,0,called_strike,0,0,0,0,0
+475,110,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,5,3,1,ball,0,0,0,0,0
+476,111,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,1,0,0,ball,1,0,0,0,0
+477,111,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,2,1,0,called_strike,0,0,0,0,0
+478,111,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,3,1,1,ball,0,0,0,0,0
+479,111,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,4,2,1,ball,0,0,0,0,0
+480,111,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,5,3,1,swinging_strike,0,0,1,1,0
+481,111,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Driver,W Holmes,6,3,2,swinging_strike,0,1,1,1,0
+482,112,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,ball,1,0,0,0,0
+483,113,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,1,0,0,swinging_strike,1,0,1,1,0
+484,113,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,2,0,1,ball,0,0,0,0,0
+485,113,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,3,1,1,in_play,0,0,1,0,1
+486,113,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,4,1,1,ball,0,0,0,0,0
+487,114,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,ball,1,0,0,0,0
+488,114,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,W Holmes,2,1,0,in_play,0,0,1,0,1
+505,119,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,1,0,0,ball,1,0,0,0,0
+506,119,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,2,1,0,ball,0,0,0,0,0
+507,119,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,3,2,0,called_strike,0,0,0,0,0
+508,119,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,4,2,1,foul,0,0,1,0,1
+509,119,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,5,2,2,ball,0,1,0,0,0
+510,119,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,6,3,2,ball,0,1,0,0,0
+511,120,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,ball,1,0,0,0,0
+512,120,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,,W Holmes,2,1,0,ball,0,0,0,0,0
+513,120,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,,W Holmes,3,2,0,in_play,0,0,1,0,1
+514,121,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,1,0,0,ball,1,0,0,0,0
+515,121,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,2,1,0,ball,0,0,0,0,0
+516,121,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,3,2,0,called_strike,0,0,0,0,0
+517,121,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,4,2,1,ball,0,0,0,0,0
+518,121,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,5,3,1,in_play,0,0,1,0,1
+519,121,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,W Holmes,6,3,1,ball,0,0,0,0,0
+520,122,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,1,0,0,ball,1,0,0,0,0
+521,122,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,2,1,0,called_strike,0,0,0,0,0
+522,122,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,3,1,1,in_play,0,0,1,0,1
+523,122,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Duffield,W Holmes,4,1,1,ball,0,0,0,0,0
+524,123,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,1,0,0,ball,1,0,0,0,0
+525,123,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,2,1,0,swinging_strike,0,0,1,1,0
+526,123,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,3,1,1,ball,0,0,0,0,0
+527,123,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,D Benton,W Holmes,4,2,1,in_play,0,0,1,0,1
+528,124,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,,W Holmes,1,0,0,called_strike,1,0,0,0,0
+529,124,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,,W Holmes,2,0,1,in_play,0,0,1,0,1
+530,125,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,1,0,0,ball,1,0,0,0,0
+531,125,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,2,1,0,ball,0,0,0,0,0
+532,125,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,3,2,0,ball,0,0,0,0,0
+533,125,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,D Palmer,W Holmes,4,3,0,ball,0,0,0,0,0
+534,126,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,1,0,0,ball,1,0,0,0,0
+535,126,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,W Dixon,W Holmes,2,1,0,in_play,0,0,1,0,1
+536,127,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,1,0,0,ball,1,0,0,0,0
+537,127,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,2,1,0,ball,0,0,0,0,0
+538,127,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,3,2,0,foul,0,0,1,0,1
+539,127,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,4,2,1,swinging_strike,0,0,1,1,0
+540,127,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,5,2,2,ball,0,1,0,0,0
+541,127,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,W Holmes,6,3,2,ball,0,1,0,0,0
+542,128,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,1,0,0,ball,1,0,0,0,0
+543,128,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,2,1,0,swinging_strike,0,0,1,1,0
+544,128,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,3,1,1,foul,0,0,1,0,1
+545,128,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,4,1,2,ball,0,1,0,0,0
+546,128,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,5,2,2,ball,0,1,0,0,0
+547,128,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,W Holmes,6,3,2,called_strike,0,1,0,0,0
