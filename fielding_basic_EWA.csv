@@ -1,12 +1,19 @@
 position,fielder,Chances,Errors,Fld%
-1B,J Driver,2,0,1.0
-2B,L Collier,4,0,1.0
+1B,J Brown,1,0,1.0
+1B,J Driver,5,0,1.0
+2B,E Mason,2,0,1.0
+2B,L Collier,5,0,1.0
 2B,M Brantley,1,0,1.0
-3B,L Collier,3,0,1.0
-3B,R Johnston,1,0,1.0
+3B,L Collier,5,0,1.0
+3B,R Johnston,4,0,1.0
 C,A Gardner,1,0,1.0
-CF,J Duffield,6,0,1.0
+CF,J Duffield,7,0,1.0
 LF,M Brantley,1,0,1.0
+LF,W Dixon,2,0,1.0
+P,M Brantley,1,0,1.0
 P,R Johnston,1,0,1.0
+RF,D Benton,3,0,1.0
 SS,J Fuentes,2,0,1.0
 SS,J Fuentes.,1,1,0.0
+SS,R Johnston,3,1,0.6666666666666666
+SS,R Johnston.,1,1,0.0

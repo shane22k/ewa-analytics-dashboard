@@ -560,3 +560,590 @@ pitch_id,pa_id,game_id,inning,half,offense_team,batter,pitcher,pitch_number_in_p
 559,132,TEST_GAME_2_2025_FOR_2026,6,Bottom,Franklinton,B Scott,W Holmes,3,1,1,called_strike,0,0,0,0,0
 560,132,TEST_GAME_2_2025_FOR_2026,6,Bottom,Franklinton,B Scott,W Holmes,4,1,2,ball,0,1,0,0,0
 561,132,TEST_GAME_2_2025_FOR_2026,6,Bottom,Franklinton,B Scott,W Holmes,5,2,2,swinging_strike,0,1,1,1,0
+562,133,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Waddell,,1,0,0,called_strike,1,0,0,0,0
+563,133,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Waddell,,2,0,1,ball,0,0,0,0,0
+564,133,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Waddell,,3,1,1,ball,0,0,0,0,0
+565,133,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Waddell,,4,2,1,ball,0,0,0,0,0
+566,133,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Waddell,,5,3,1,ball,0,0,0,0,0
+567,134,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,K Bowen,,1,0,0,ball,1,0,0,0,0
+568,134,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,K Bowen,,2,1,0,called_strike,0,0,0,0,0
+569,134,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,K Bowen,,3,1,1,foul,0,0,1,0,1
+570,134,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,K Bowen,,4,1,2,in_play,0,1,1,0,1
+571,134,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,K Bowen,,5,1,2,ball,0,1,0,0,0
+572,135,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,,,1,0,0,foul,1,0,1,0,1
+573,135,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,,,2,0,1,ball,0,0,0,0,0
+574,135,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,,,3,1,1,in_play,0,0,1,0,1
+575,136,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,,,1,0,0,called_strike,1,0,0,0,0
+576,136,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,,,2,0,1,in_play,0,0,1,0,1
+577,137,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,A Jenerette,,1,0,0,called_strike,1,0,0,0,0
+578,137,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,A Jenerette,,2,0,1,ball,0,0,0,0,0
+579,137,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,A Jenerette,,3,1,1,ball,0,0,0,0,0
+580,137,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,A Jenerette,,4,2,1,ball,0,0,0,0,0
+581,137,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,A Jenerette,,5,3,1,ball,0,0,0,0,0
+582,138,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Mclean,,1,0,0,swinging_strike,1,0,1,1,0
+583,138,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Mclean,,2,0,1,ball,0,0,0,0,0
+584,138,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Mclean,,3,1,1,foul,0,0,1,0,1
+585,138,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Mclean,,4,1,2,ball,0,1,0,0,0
+586,138,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Mclean,,5,2,2,called_strike,0,1,0,0,0
+587,139,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,1,0,0,ball,1,0,0,0,0
+588,139,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,2,1,0,called_strike,0,0,0,0,0
+589,139,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,3,1,1,ball,0,0,0,0,0
+590,139,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,4,2,1,swinging_strike,0,0,1,1,0
+591,139,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,5,2,2,ball,0,1,0,0,0
+592,139,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,6,3,2,foul,0,1,1,0,1
+593,139,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,7,3,2,foul_tip,0,1,1,0,1
+594,139,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,8,3,2,foul_tip,0,1,1,0,1
+595,140,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,1,0,0,swinging_strike,1,0,1,1,0
+596,140,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,2,0,1,ball,0,0,0,0,0
+597,140,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,3,1,1,foul,0,0,1,0,1
+598,140,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,4,1,2,ball,0,1,0,0,0
+599,140,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,5,2,2,ball,0,1,0,0,0
+600,140,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,6,3,2,foul,0,1,1,0,1
+601,140,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,7,3,2,foul,0,1,1,0,1
+602,140,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,8,3,2,foul,0,1,1,0,1
+603,140,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,9,3,2,ball,0,1,0,0,0
+604,141,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,1,0,0,ball,1,0,0,0,0
+605,141,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,2,1,0,ball,0,0,0,0,0
+606,141,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,3,2,0,ball,0,0,0,0,0
+607,141,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,4,3,0,in_play,0,0,1,0,1
+608,141,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,5,3,0,ball,0,0,0,0,0
+609,142,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,1,0,0,ball,1,0,0,0,0
+610,142,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,2,1,0,ball,0,0,0,0,0
+611,142,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,3,2,0,called_strike,0,0,0,0,0
+612,142,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,4,2,1,foul,0,0,1,0,1
+613,142,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,5,2,2,in_play,0,1,1,0,1
+614,143,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,,G Simmons,1,0,0,ball,1,0,0,0,0
+615,143,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,,G Simmons,2,1,0,ball,0,0,0,0,0
+616,143,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,,G Simmons,3,2,0,in_play,0,0,1,0,1
+617,144,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,,G Simmons,1,0,0,ball,1,0,0,0,0
+618,144,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,,G Simmons,2,1,0,foul,0,0,1,0,1
+619,144,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,,G Simmons,3,1,1,called_strike,0,0,0,0,0
+620,144,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,,G Simmons,4,1,2,swinging_strike,0,1,1,1,0
+621,145,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,1,0,0,ball,1,0,0,0,0
+622,145,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,2,1,0,ball,0,0,0,0,0
+623,145,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,3,2,0,ball,0,0,0,0,0
+624,145,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,4,3,0,called_strike,0,0,0,0,0
+625,145,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,5,3,1,in_play,0,0,1,0,1
+626,146,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,1,0,0,ball,1,0,0,0,0
+627,146,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,2,1,0,called_strike,0,0,0,0,0
+628,146,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,3,1,1,in_play,0,0,1,0,1
+629,147,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,M Freeman,G Simmons,1,0,0,ball,1,0,0,0,0
+630,147,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,M Freeman,G Simmons,2,1,0,in_play,0,0,1,0,1
+631,148,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,B Waddell,G Simmons,1,0,0,called_strike,1,0,0,0,0
+632,148,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,B Waddell,G Simmons,2,0,1,ball,0,0,0,0,0
+633,148,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,B Waddell,G Simmons,3,1,1,in_play,0,0,1,0,1
+634,148,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,B Waddell,G Simmons,4,1,1,ball,0,0,0,0,0
+635,149,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Bowen,G Simmons,1,0,0,ball,1,0,0,0,0
+636,149,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Bowen,G Simmons,2,1,0,called_strike,0,0,0,0,0
+637,149,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Bowen,G Simmons,3,1,1,swinging_strike,0,0,1,1,0
+638,149,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Bowen,G Simmons,4,1,2,foul,0,1,1,0,1
+639,149,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Bowen,G Simmons,5,1,2,foul,0,1,1,0,1
+640,149,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Bowen,G Simmons,6,1,2,in_play,0,1,1,0,1
+641,149,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Bowen,G Simmons,7,1,2,ball,0,1,0,0,0
+642,150,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Coker,G Simmons,1,0,0,in_play,1,0,1,0,1
+643,150,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Coker,G Simmons,2,0,0,ball,0,0,0,0,0
+644,151,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,1,0,0,ball,1,0,0,0,0
+645,151,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,2,1,0,ball,0,0,0,0,0
+646,151,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,3,2,0,swinging_strike,0,0,1,1,0
+647,151,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,4,2,1,ball,0,0,0,0,0
+648,151,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,G Simmons,5,3,1,in_play,0,0,1,0,1
+649,152,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,1,0,0,foul,1,0,1,0,1
+650,152,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,2,0,1,ball,0,0,0,0,0
+651,152,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,3,1,1,in_play,0,0,1,0,1
+652,152,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,4,1,1,ball,0,0,0,0,0
+653,153,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,1,0,0,in_play,1,0,1,0,1
+654,153,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,2,0,0,ball,0,0,0,0,0
+655,154,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,G Simmons,1,0,0,ball,1,0,0,0,0
+656,154,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,G Simmons,2,1,0,in_play,0,0,1,0,1
+657,154,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,G Simmons,3,1,0,ball,0,0,0,0,0
+658,155,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,1,0,0,ball,1,0,0,0,0
+659,155,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,2,1,0,foul,0,0,1,0,1
+660,155,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,3,1,1,ball,0,0,0,0,0
+661,155,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,4,2,1,ball,0,0,0,0,0
+662,155,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,5,3,1,ball,0,0,0,0,0
+663,156,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,1,0,0,ball,1,0,0,0,0
+664,156,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,2,1,0,foul,0,0,1,0,1
+665,156,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,3,1,1,foul,0,0,1,0,1
+666,156,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,J Driver,G Simmons,4,1,2,in_play,0,1,1,0,1
+667,157,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,1,0,0,in_play,1,0,1,0,1
+668,157,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,2,0,0,ball,0,0,0,0,0
+669,158,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,1,0,0,ball,1,0,0,0,0
+670,158,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,2,1,0,foul,0,0,1,0,1
+671,158,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,3,1,1,foul,0,0,1,0,1
+672,158,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,4,1,2,swinging_strike,0,1,1,1,0
+673,159,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,G Simmons,1,0,0,called_strike,1,0,0,0,0
+674,159,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,G Simmons,2,0,1,foul,0,0,1,0,1
+675,159,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,G Simmons,3,0,2,in_play,0,1,1,0,1
+676,159,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,G Simmons,4,0,2,ball,0,1,0,0,0
+677,160,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,G Simmons,1,0,0,foul,1,0,1,0,1
+678,160,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,G Simmons,2,0,1,foul,0,0,1,0,1
+679,160,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,G Simmons,3,0,2,in_play,0,1,1,0,1
+680,161,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,G Simmons,1,0,0,ball,1,0,0,0,0
+681,161,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,G Simmons,2,1,0,swinging_strike,0,0,1,1,0
+682,161,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,G Simmons,3,1,1,in_play,0,0,1,0,1
+683,162,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,1,0,0,ball,1,0,0,0,0
+684,162,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,2,1,0,called_strike,0,0,0,0,0
+685,162,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,3,1,1,ball,0,0,0,0,0
+686,162,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,4,2,1,called_strike,0,0,0,0,0
+687,162,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,5,2,2,foul,0,1,1,0,1
+688,162,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,6,2,2,swinging_strike,0,1,1,1,0
+689,162,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,7,2,3,ball,0,0,0,0,0
+690,163,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Mclean,G Simmons,1,0,0,called_strike,1,0,0,0,0
+691,163,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Mclean,G Simmons,2,0,1,ball,0,0,0,0,0
+692,163,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Mclean,G Simmons,3,1,1,foul,0,0,1,0,1
+693,163,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Mclean,G Simmons,4,1,2,ball,0,1,0,0,0
+694,163,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Mclean,G Simmons,5,2,2,ball,0,1,0,0,0
+695,163,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Mclean,G Simmons,6,3,2,ball,0,1,0,0,0
+696,163,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Mclean,G Simmons,7,4,2,foul,0,1,1,0,1
+697,163,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Mclean,G Simmons,8,4,2,ball,0,1,0,0,0
+698,164,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,1,0,0,ball,1,0,0,0,0
+699,164,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,2,1,0,ball,0,0,0,0,0
+700,164,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,3,2,0,in_play,0,0,1,0,1
+701,164,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,4,2,0,ball,0,0,0,0,0
+702,165,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,N Rye,G Simmons,1,0,0,ball,1,0,0,0,0
+703,165,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,N Rye,G Simmons,2,1,0,in_play,0,0,1,0,1
+704,166,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,1,0,0,ball,1,0,0,0,0
+705,166,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,2,1,0,ball,0,0,0,0,0
+706,166,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,3,2,0,foul,0,0,1,0,1
+707,166,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,4,2,1,foul,0,0,1,0,1
+708,166,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,G Simmons,5,2,2,in_play,0,1,1,0,1
+709,167,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Waddell,G Simmons,1,0,0,called_strike,1,0,0,0,0
+710,167,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Waddell,G Simmons,2,0,1,ball,0,0,0,0,0
+711,167,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Waddell,G Simmons,3,1,1,called_strike,0,0,0,0,0
+712,167,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Waddell,G Simmons,4,1,2,ball,0,1,0,0,0
+713,167,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Waddell,G Simmons,5,2,2,ball,0,1,0,0,0
+714,167,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Waddell,G Simmons,6,3,2,swinging_strike,0,1,1,1,0
+715,168,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,K Bowen,G Simmons,1,0,0,ball,1,0,0,0,0
+716,168,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,K Bowen,G Simmons,2,1,0,ball,0,0,0,0,0
+717,168,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,K Bowen,G Simmons,3,2,0,called_strike,0,0,0,0,0
+718,168,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,K Bowen,G Simmons,4,2,1,ball,0,0,0,0,0
+719,168,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,K Bowen,G Simmons,5,3,1,called_strike,0,0,0,0,0
+720,168,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,K Bowen,G Simmons,6,3,2,swinging_strike,0,1,1,1,0
+721,169,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,1,0,0,ball,1,0,0,0,0
+722,169,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,2,1,0,ball,0,0,0,0,0
+723,169,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,3,2,0,ball,0,0,0,0,0
+724,169,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,4,3,0,called_strike,0,0,0,0,0
+725,169,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,5,3,1,called_strike,0,0,0,0,0
+726,169,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,E Mason,G Simmons,6,3,2,ball,0,1,0,0,0
+727,170,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,G Simmons,1,0,0,ball,1,0,0,0,0
+728,170,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,G Simmons,2,1,0,called_strike,0,0,0,0,0
+729,170,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,G Simmons,3,1,1,swinging_strike,0,0,1,1,0
+730,170,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,G Simmons,4,1,2,ball,0,1,0,0,0
+731,170,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,G Simmons,5,2,2,ball,0,1,0,0,0
+732,170,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,G Simmons,6,3,2,ball,0,1,0,0,0
+733,170,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,G Simmons,7,4,2,in_play,0,1,1,0,1
+734,171,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,1,0,0,ball,1,0,0,0,0
+735,171,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,2,1,0,ball,0,0,0,0,0
+736,171,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,3,2,0,swinging_strike,0,0,1,1,0
+737,171,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,4,2,1,called_strike,0,0,0,0,0
+738,171,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Benton,G Simmons,5,2,2,swinging_strike,0,1,1,1,0
+739,172,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,G Simmons,1,0,0,ball,1,0,0,0,0
+740,172,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,G Simmons,2,1,0,ball,0,0,0,0,0
+741,173,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,1,0,0,called_strike,1,0,0,0,0
+742,173,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,2,0,1,ball,0,0,0,0,0
+743,173,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,3,1,1,ball,0,0,0,0,0
+744,173,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,4,2,1,ball,0,0,0,0,0
+745,173,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,G Simmons,5,3,1,ball,0,0,0,0,0
+746,174,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,1,0,0,called_strike,1,0,0,0,0
+747,174,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,2,0,1,ball,0,0,0,0,0
+748,174,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,3,1,1,swinging_strike,0,0,1,1,0
+749,174,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,G Simmons,4,1,2,swinging_strike,0,1,1,1,0
+750,175,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,K Coker,G Simmons,1,0,0,called_strike,1,0,0,0,0
+751,175,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,K Coker,G Simmons,2,0,1,called_strike,0,0,0,0,0
+752,175,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,K Coker,G Simmons,3,0,2,ball,0,1,0,0,0
+753,175,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,K Coker,G Simmons,4,1,2,ball,0,1,0,0,0
+754,175,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,K Coker,G Simmons,5,2,2,swinging_strike,0,1,1,1,0
+755,176,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,G Simmons,G Simmons,1,0,0,ball,1,0,0,0,0
+756,176,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,G Simmons,G Simmons,2,1,0,ball,0,0,0,0,0
+757,176,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,G Simmons,G Simmons,3,2,0,ball,0,0,0,0,0
+758,176,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,G Simmons,G Simmons,4,3,0,ball,0,0,0,0,0
+759,177,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,,G Simmons,1,0,0,ball,1,0,0,0,0
+760,177,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,,G Simmons,2,1,0,called_strike,0,0,0,0,0
+761,177,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,,G Simmons,3,1,1,in_play,0,0,1,0,1
+762,178,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,B Mclean,G Simmons,1,0,0,swinging_strike,1,0,1,1,0
+763,178,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,B Mclean,G Simmons,2,0,1,swinging_strike,0,0,1,1,0
+764,178,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,B Mclean,G Simmons,3,0,2,swinging_strike,0,1,1,1,0
+765,179,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,1,0,0,called_strike,1,0,0,0,0
+766,179,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,2,0,1,called_strike,0,0,0,0,0
+767,179,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,3,0,2,foul,0,1,1,0,1
+768,179,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,4,0,2,ball,0,1,0,0,0
+769,179,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,5,1,2,ball,0,1,0,0,0
+770,179,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,G Simmons,6,2,2,called_strike,0,1,0,0,0
+771,180,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,L Collier,G Simmons,1,0,0,swinging_strike,1,0,1,1,0
+772,180,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,L Collier,G Simmons,2,0,1,called_strike,0,0,0,0,0
+773,180,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,L Collier,G Simmons,3,0,2,called_strike,0,1,0,0,0
+774,181,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,1,0,0,ball,1,0,0,0,0
+775,181,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,2,1,0,called_strike,0,0,0,0,0
+776,181,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,3,1,1,swinging_strike,0,0,1,1,0
+777,181,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,4,1,2,ball,0,1,0,0,0
+778,181,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,G Simmons,5,2,2,swinging_strike,0,1,1,1,0
+779,182,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,L Jacobs,M Brantley,1,0,0,called_strike,1,0,0,0,0
+780,182,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,L Jacobs,M Brantley,2,0,1,ball,0,0,0,0,0
+781,182,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,L Jacobs,M Brantley,3,1,1,swinging_strike,0,0,1,1,0
+782,182,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,L Jacobs,M Brantley,4,1,2,ball,0,1,0,0,0
+783,183,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,1,0,0,ball,1,0,0,0,0
+784,183,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,2,1,0,ball,0,0,0,0,0
+785,183,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,3,2,0,called_strike,0,0,0,0,0
+786,183,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,4,2,1,ball,0,0,0,0,0
+787,183,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,5,3,1,foul,0,0,1,0,1
+788,183,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,6,3,2,foul_tip,0,1,1,0,1
+789,183,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,7,3,2,foul_tip,0,1,1,0,1
+790,184,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,M Freeman,M Brantley,1,0,0,ball,1,0,0,0,0
+791,184,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,M Freeman,M Brantley,2,1,0,in_play,0,0,1,0,1
+792,185,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,B Waddell,M Brantley,1,0,0,in_play,1,0,1,0,1
+793,186,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,1,0,0,called_strike,1,0,0,0,0
+794,186,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,2,0,1,foul,0,0,1,0,1
+795,186,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,3,0,2,in_play,0,1,1,0,1
+796,186,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,4,0,2,ball,0,1,0,0,0
+797,187,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,M Brantley,1,0,0,in_play,1,0,1,0,1
+798,188,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,E Mason,M Brantley,1,0,0,ball,1,0,0,0,0
+799,188,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,E Mason,M Brantley,2,1,0,foul,0,0,1,0,1
+800,188,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,E Mason,M Brantley,3,1,1,called_strike,0,0,0,0,0
+801,188,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,E Mason,M Brantley,4,1,2,ball,0,1,0,0,0
+802,188,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,E Mason,M Brantley,5,2,2,ball,0,1,0,0,0
+803,188,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,E Mason,M Brantley,6,3,2,swinging_strike,0,1,1,1,0
+804,189,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,M Brantley,1,0,0,ball,1,0,0,0,0
+805,189,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,M Brantley,2,1,0,swinging_strike,0,0,1,1,0
+806,189,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,M Brantley,3,1,1,in_play,0,0,1,0,1
+807,189,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,M Brantley,4,1,1,ball,0,0,0,0,0
+808,190,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,D Benton,M Brantley,1,0,0,ball,1,0,0,0,0
+809,190,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,D Benton,M Brantley,2,1,0,in_play,0,0,1,0,1
+810,191,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,,M Brantley,1,0,0,ball,1,0,0,0,0
+811,191,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,,M Brantley,2,1,0,called_strike,0,0,0,0,0
+812,191,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,,M Brantley,3,1,1,in_play,0,0,1,0,1
+813,193,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,M Brantley,1,0,0,ball,1,0,0,0,0
+814,193,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,M Brantley,2,1,0,called_strike,0,0,0,0,0
+815,193,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,M Brantley,3,1,1,ball,0,0,0,0,0
+816,193,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,M Brantley,4,2,1,called_strike,0,0,0,0,0
+817,193,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,M Brantley,5,2,2,swinging_strike,0,1,1,1,0
+818,194,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,M Brantley,1,0,0,called_strike,1,0,0,0,0
+819,194,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,M Brantley,2,0,1,ball,0,0,0,0,0
+820,194,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,M Brantley,3,1,1,ball,0,0,0,0,0
+821,194,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,M Brantley,4,2,1,called_strike,0,0,0,0,0
+822,194,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,M Brantley,5,2,2,foul,0,1,1,0,1
+823,194,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,M Brantley,6,2,2,ball,0,1,0,0,0
+824,194,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,M Brantley,7,3,2,in_play,0,1,1,0,1
+825,195,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,A Jenerette,M Brantley,1,0,0,ball,1,0,0,0,0
+826,195,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,A Jenerette,M Brantley,2,1,0,ball,0,0,0,0,0
+827,195,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,A Jenerette,M Brantley,3,2,0,foul,0,0,1,0,1
+828,195,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,A Jenerette,M Brantley,4,2,1,swinging_strike,0,0,1,1,0
+829,195,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,A Jenerette,M Brantley,5,2,2,ball,0,1,0,0,0
+830,195,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,A Jenerette,M Brantley,6,3,2,swinging_strike,0,1,1,1,0
+831,196,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,M Brantley,1,0,0,called_strike,1,0,0,0,0
+832,196,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,M Brantley,2,0,1,in_play,0,0,1,0,1
+833,197,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,,M Brantley,1,0,0,ball,1,0,0,0,0
+834,197,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,,M Brantley,2,1,0,called_strike,0,0,0,0,0
+835,197,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,,M Brantley,3,1,1,ball,0,0,0,0,0
+836,197,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,,M Brantley,4,2,1,in_play,0,0,1,0,1
+837,198,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,L Collier,M Brantley,1,0,0,ball,1,0,0,0,0
+838,198,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,L Collier,M Brantley,2,1,0,ball,0,0,0,0,0
+839,198,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,L Collier,M Brantley,3,2,0,called_strike,0,0,0,0,0
+840,198,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,L Collier,M Brantley,4,2,1,in_play,0,0,1,0,1
+841,199,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,,M Brantley,1,0,0,in_play,1,0,1,0,1
+842,200,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,,M Brantley,1,0,0,ball,1,0,0,0,0
+843,200,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,,M Brantley,2,1,0,in_play,0,0,1,0,1
+844,201,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,L Jacobs,M Brantley,1,0,0,ball,1,0,0,0,0
+845,201,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,L Jacobs,M Brantley,2,1,0,called_strike,0,0,0,0,0
+846,201,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,L Jacobs,M Brantley,3,1,1,ball,0,0,0,0,0
+847,201,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,L Jacobs,M Brantley,4,2,1,called_strike,0,0,0,0,0
+848,201,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,L Jacobs,M Brantley,5,2,2,swinging_strike,0,1,1,1,0
+849,202,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,N Rye,M Brantley,1,0,0,called_strike,1,0,0,0,0
+850,202,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,N Rye,M Brantley,2,0,1,ball,0,0,0,0,0
+851,203,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,M Freeman,M Brantley,1,0,0,foul,1,0,1,0,1
+852,203,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,M Freeman,M Brantley,2,0,1,ball,0,0,0,0,0
+853,203,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,M Freeman,M Brantley,3,1,1,ball,0,0,0,0,0
+854,203,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,M Freeman,M Brantley,4,2,1,ball,0,0,0,0,0
+855,203,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,M Freeman,M Brantley,5,3,1,called_strike,0,0,0,0,0
+856,203,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,M Freeman,M Brantley,6,3,2,ball,0,1,0,0,0
+857,204,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,,M Brantley,1,0,0,called_strike,1,0,0,0,0
+858,204,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,,M Brantley,2,0,1,ball,0,0,0,0,0
+859,205,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,,M Brantley,1,0,0,ball,1,0,0,0,0
+860,205,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,,M Brantley,2,1,0,ball,0,0,0,0,0
+861,205,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,,M Brantley,3,2,0,called_strike,0,0,0,0,0
+862,205,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,,M Brantley,4,2,1,in_play,0,0,1,0,1
+863,206,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,K Coker,M Brantley,1,0,0,ball,1,0,0,0,0
+864,206,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,K Coker,M Brantley,2,1,0,ball,0,0,0,0,0
+865,206,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,K Coker,M Brantley,3,2,0,ball,0,0,0,0,0
+866,206,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,K Coker,M Brantley,4,3,0,ball,0,0,0,0,0
+867,207,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,,M Brantley,1,0,0,in_play,1,0,1,0,1
+868,208,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,M Brantley,1,0,0,called_strike,1,0,0,0,0
+869,208,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,M Brantley,2,0,1,ball,0,0,0,0,0
+870,208,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,M Brantley,3,1,1,called_strike,0,0,0,0,0
+871,208,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,M Brantley,4,1,2,called_strike,0,1,0,0,0
+872,209,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,D Benton,M Brantley,1,0,0,called_strike,1,0,0,0,0
+873,209,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,D Benton,M Brantley,2,0,1,ball,0,0,0,0,0
+874,209,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,D Benton,M Brantley,3,1,1,foul,0,0,1,0,1
+875,209,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,D Benton,M Brantley,4,1,2,ball,0,1,0,0,0
+876,209,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,D Benton,M Brantley,5,2,2,foul,0,1,1,0,1
+877,209,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,D Benton,M Brantley,6,2,2,in_play,0,1,1,0,1
+878,209,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,D Benton,M Brantley,7,2,2,ball,0,1,0,0,0
+879,210,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,J Driver,M Brantley,1,0,0,ball,1,0,0,0,0
+880,210,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,J Driver,M Brantley,2,1,0,in_play,0,0,1,0,1
+881,210,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,J Driver,M Brantley,3,1,0,ball,0,0,0,0,0
+882,211,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,D Palmer,K Bowen,1,0,0,ball,1,0,0,0,0
+883,212,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,W Dixon,K Bowen,1,0,0,ball,1,0,0,0,0
+884,212,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,W Dixon,K Bowen,2,1,0,ball,0,0,0,0,0
+885,212,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,W Dixon,K Bowen,3,2,0,ball,0,0,0,0,0
+886,212,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,W Dixon,K Bowen,4,3,0,ball,0,0,0,0,0
+887,213,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,,K Bowen,1,0,0,called_strike,1,0,0,0,0
+888,213,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,,K Bowen,2,0,1,in_play,0,0,1,0,1
+889,214,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,,K Bowen,1,0,0,in_play,1,0,1,0,1
+890,215,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,A Jenerette,L Collier,1,0,0,foul,1,0,1,0,1
+891,215,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,A Jenerette,L Collier,2,0,1,ball,0,0,0,0,0
+892,216,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,B Mclean,L Collier,1,0,0,called_strike,1,0,0,0,0
+893,216,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,B Mclean,L Collier,2,0,1,ball,0,0,0,0,0
+894,216,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,B Mclean,L Collier,3,1,1,ball,0,0,0,0,0
+895,216,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,B Mclean,L Collier,4,2,1,swinging_strike,0,0,1,1,0
+896,216,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,B Mclean,L Collier,5,2,2,in_play,0,1,1,0,1
+897,217,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,,L Collier,1,0,0,called_strike,1,0,0,0,0
+898,217,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,,L Collier,2,0,1,in_play,0,0,1,0,1
+899,218,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,N Rye,L Collier,1,0,0,called_strike,1,0,0,0,0
+900,218,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,N Rye,L Collier,2,0,1,foul,0,0,1,0,1
+901,218,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,N Rye,L Collier,3,0,2,in_play,0,1,1,0,1
+902,218,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,N Rye,L Collier,4,0,2,ball,0,1,0,0,0
+903,219,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,,L Collier,1,0,0,foul,1,0,1,0,1
+904,219,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,,L Collier,2,0,1,called_strike,0,0,0,0,0
+905,220,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,L Collier,1,0,0,called_strike,1,0,0,0,0
+906,220,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,L Collier,2,0,1,ball,0,0,0,0,0
+907,220,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,L Collier,3,1,1,ball,0,0,0,0,0
+908,220,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,L Collier,4,2,1,ball,0,0,0,0,0
+909,220,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,L Collier,5,3,1,called_strike,0,0,0,0,0
+910,220,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,L Collier,6,3,2,called_strike,0,1,0,0,0
+911,221,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,E Mason,L Collier,1,0,0,ball,1,0,0,0,0
+912,221,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,E Mason,L Collier,2,1,0,called_strike,0,0,0,0,0
+913,221,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,E Mason,L Collier,3,1,1,ball,0,0,0,0,0
+914,221,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,E Mason,L Collier,4,2,1,ball,0,0,0,0,0
+915,221,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,E Mason,L Collier,5,3,1,ball,0,0,0,0,0
+916,222,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,J Duffield,L Collier,1,0,0,ball,1,0,0,0,0
+917,222,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,J Duffield,L Collier,2,1,0,called_strike,0,0,0,0,0
+918,222,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,J Duffield,L Collier,3,1,1,ball,0,0,0,0,0
+919,222,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,J Duffield,L Collier,4,2,1,in_play,0,0,1,0,1
+920,223,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,,L Collier,1,0,0,in_play,1,0,1,0,1
+921,223,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,,L Collier,2,0,0,foul,0,0,1,0,1
+922,224,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,K Obriant,,1,0,0,called_strike,1,0,0,0,0
+923,224,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,K Obriant,,2,0,1,swinging_strike,0,0,1,1,0
+924,224,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,K Obriant,,3,0,2,swinging_strike,0,1,1,1,0
+925,225,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,I Smoak,,1,0,0,swinging_strike,1,0,1,1,0
+926,225,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,I Smoak,,2,0,1,called_strike,0,0,0,0,0
+927,225,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,I Smoak,,3,0,2,called_strike,0,1,0,0,0
+928,226,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,,,1,0,0,ball,1,0,0,0,0
+929,226,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,,,2,1,0,foul,0,0,1,0,1
+930,226,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,,,3,1,1,in_play,0,0,1,0,1
+931,227,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,ball,1,0,0,0,0
+932,227,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Benton,,2,1,0,called_strike,0,0,0,0,0
+933,227,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Benton,,3,1,1,in_play,0,0,1,0,1
+934,227,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Benton,,4,1,1,ball,0,0,0,0,0
+935,228,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,J Driver,,1,0,0,swinging_strike,1,0,1,1,0
+936,228,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,J Driver,,2,0,1,ball,0,0,0,0,0
+937,228,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,J Driver,,3,1,1,ball,0,0,0,0,0
+938,228,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,J Driver,,4,2,1,ball,0,0,0,0,0
+939,228,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,J Driver,,5,3,1,called_strike,0,0,0,0,0
+940,228,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,J Driver,,6,3,2,ball,0,1,0,0,0
+941,229,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,1,0,0,ball,1,0,0,0,0
+942,229,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,2,1,0,foul,0,0,1,0,1
+943,229,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,3,1,1,ball,0,0,0,0,0
+944,229,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,4,2,1,ball,0,0,0,0,0
+945,229,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,5,3,1,called_strike,0,0,0,0,0
+946,229,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,,6,3,2,called_strike,0,1,0,0,0
+947,230,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+948,230,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,called_strike,0,0,0,0,0
+949,230,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,3,1,1,foul,0,0,1,0,1
+950,230,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,4,1,2,foul,0,1,1,0,1
+951,230,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,5,1,2,in_play,0,1,1,0,1
+952,231,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,called_strike,1,0,0,0,0
+953,231,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,2,0,1,ball,0,0,0,0,0
+954,231,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,3,1,1,ball,0,0,0,0,0
+955,231,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,4,2,1,called_strike,0,0,0,0,0
+956,231,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,5,2,2,foul,0,1,1,0,1
+957,231,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,6,2,2,foul,0,1,1,0,1
+958,231,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,,7,2,2,in_play,0,1,1,0,1
+959,232,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,,,1,0,0,swinging_strike,1,0,1,1,0
+960,232,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,,,2,0,1,ball,0,0,0,0,0
+961,232,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,,,3,1,1,ball,0,0,0,0,0
+962,232,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,,,4,2,1,foul,0,0,1,0,1
+963,232,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,,,5,2,2,swinging_strike,0,1,1,1,0
+964,233,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,K Hill,,1,0,0,ball,1,0,0,0,0
+965,233,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,K Hill,,2,1,0,ball,0,0,0,0,0
+966,233,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,K Hill,,3,2,0,ball,0,0,0,0,0
+967,233,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,K Hill,,4,3,0,called_strike,0,0,0,0,0
+968,233,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,K Hill,,5,3,1,ball,0,0,0,0,0
+969,234,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,,,1,0,0,ball,1,0,0,0,0
+970,234,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,,,2,1,0,ball,0,0,0,0,0
+971,234,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,,,3,2,0,in_play,0,0,1,0,1
+972,235,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,C Reinhard,,1,0,0,ball,1,0,0,0,0
+973,235,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,C Reinhard,,2,1,0,swinging_strike,0,0,1,1,0
+974,235,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,C Reinhard,,3,1,1,called_strike,0,0,0,0,0
+975,235,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,C Reinhard,,4,1,2,called_strike,0,1,0,0,0
+976,236,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+977,236,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,foul,0,0,1,0,1
+978,236,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,3,1,1,called_strike,0,0,0,0,0
+979,236,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,4,1,2,foul,0,1,1,0,1
+980,236,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,5,1,2,swinging_strike,0,1,1,1,0
+981,237,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,1,0,0,ball,1,0,0,0,0
+982,237,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,2,1,0,ball,0,0,0,0,0
+983,237,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,3,2,0,foul,0,0,1,0,1
+984,237,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,4,2,1,foul,0,0,1,0,1
+985,237,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,5,2,2,ball,0,1,0,0,0
+986,237,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,L Collier,,6,3,2,ball,0,1,0,0,0
+987,238,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,1,0,0,called_strike,1,0,0,0,0
+988,238,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,2,0,1,ball,0,0,0,0,0
+989,238,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,3,1,1,ball,0,0,0,0,0
+990,238,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,4,2,1,ball,0,0,0,0,0
+991,238,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,5,3,1,ball,0,0,0,0,0
+992,238,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,,6,4,1,ball,0,0,0,0,0
+993,239,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,,1,0,0,called_strike,1,0,0,0,0
+994,239,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,,2,0,1,ball,0,0,0,0,0
+995,239,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,,3,1,1,ball,0,0,0,0,0
+996,239,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,,4,2,1,called_strike,0,0,0,0,0
+997,239,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,,5,2,2,ball,0,1,0,0,0
+998,239,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,,6,3,2,ball,0,1,0,0,0
+999,240,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+1000,240,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,ball,0,0,0,0,0
+1001,240,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,3,2,0,ball,0,0,0,0,0
+1002,240,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,4,3,0,called_strike,0,0,0,0,0
+1003,240,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,5,3,1,in_play,0,0,1,0,1
+1004,241,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,called_strike,1,0,0,0,0
+1005,241,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,,2,0,1,in_play,0,0,1,0,1
+1006,242,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,,1,0,0,in_play,1,0,1,0,1
+1007,243,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,,1,0,0,called_strike,1,0,0,0,0
+1008,243,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,,2,0,1,in_play,0,0,1,0,1
+1009,244,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,,1,0,0,ball,1,0,0,0,0
+1010,244,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,,2,1,0,called_strike,0,0,0,0,0
+1011,244,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,,3,1,1,ball,0,0,0,0,0
+1012,244,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,,4,2,1,ball,0,0,0,0,0
+1013,244,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,,5,3,1,called_strike,0,0,0,0,0
+1014,244,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,,6,3,2,in_play,0,1,1,0,1
+1015,245,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+1016,245,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,ball,0,0,0,0,0
+1017,245,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,,3,2,0,in_play,0,0,1,0,1
+1018,246,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,,1,0,0,ball,1,0,0,0,0
+1019,246,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,,2,1,0,ball,0,0,0,0,0
+1020,246,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,,3,2,0,ball,0,0,0,0,0
+1021,246,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,,4,3,0,called_strike,0,0,0,0,0
+1022,246,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,,5,3,1,called_strike,0,0,0,0,0
+1023,246,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,,6,3,2,ball,0,1,0,0,0
+1024,247,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+1025,247,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,foul,0,0,1,0,1
+1026,247,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,,3,1,1,foul,0,0,1,0,1
+1027,247,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,,4,1,2,in_play,0,1,1,0,1
+1028,248,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+1029,248,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,called_strike,0,0,0,0,0
+1030,248,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,,3,1,1,in_play,0,0,1,0,1
+1031,249,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,,,1,0,0,in_play,1,0,1,0,1
+1032,250,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,,,1,0,0,ball,1,0,0,0,0
+1033,250,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,,,2,1,0,ball,0,0,0,0,0
+1034,250,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,,,3,2,0,ball,0,0,0,0,0
+1035,250,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,,,4,3,0,in_play,0,0,1,0,1
+1036,251,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,N Denny,,1,0,0,swinging_strike,1,0,1,1,0
+1037,251,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,N Denny,,2,0,1,ball,0,0,0,0,0
+1038,251,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,N Denny,,3,1,1,ball,0,0,0,0,0
+1039,251,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,N Denny,,4,2,1,ball,0,0,0,0,0
+1040,251,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,N Denny,,5,3,1,called_strike,0,0,0,0,0
+1041,251,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,N Denny,,6,3,2,in_play,0,1,1,0,1
+1042,252,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,K Hill,,1,0,0,ball,1,0,0,0,0
+1043,252,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,K Hill,,2,1,0,swinging_strike,0,0,1,1,0
+1044,252,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,K Hill,,3,1,1,in_play,0,0,1,0,1
+1045,252,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,K Hill,,4,1,1,ball,0,0,0,0,0
+1046,253,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,B Moyers,,1,0,0,ball,1,0,0,0,0
+1047,253,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,B Moyers,,2,1,0,foul,0,0,1,0,1
+1048,253,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,B Moyers,,3,1,1,in_play,0,0,1,0,1
+1049,254,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,C Reinhard,,1,0,0,called_strike,1,0,0,0,0
+1050,254,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,C Reinhard,,2,0,1,called_strike,0,0,0,0,0
+1051,254,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,C Reinhard,,3,0,2,called_strike,0,1,0,0,0
+1052,255,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,1,0,0,ball,1,0,0,0,0
+1053,255,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,2,1,0,called_strike,0,0,0,0,0
+1054,255,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,3,1,1,ball,0,0,0,0,0
+1055,255,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,4,2,1,called_strike,0,0,0,0,0
+1056,255,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,5,2,2,foul,0,1,1,0,1
+1057,255,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,L Collier,,6,2,2,swinging_strike,0,1,1,1,0
+1058,256,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,in_play,1,0,1,0,1
+1059,257,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,J Duffield,,1,0,0,ball,1,0,0,0,0
+1060,257,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,J Duffield,,2,1,0,ball,0,0,0,0,0
+1061,257,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,J Duffield,,3,2,0,ball,0,0,0,0,0
+1062,257,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,J Duffield,,4,3,0,swinging_strike,0,0,1,1,0
+1063,257,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,J Duffield,,5,3,1,ball,0,0,0,0,0
+1064,258,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,ball,1,0,0,0,0
+1065,258,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,D Benton,,2,1,0,swinging_strike,0,0,1,1,0
+1066,258,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,D Benton,,3,1,1,called_strike,0,0,0,0,0
+1067,258,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,D Benton,,4,1,2,ball,0,1,0,0,0
+1068,258,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,D Benton,,5,2,2,ball,0,1,0,0,0
+1069,258,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,D Benton,,6,3,2,ball,0,1,0,0,0
+1070,259,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,called_strike,1,0,0,0,0
+1071,259,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,,,2,0,1,in_play,0,0,1,0,1
+1072,260,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,O Joines,,1,0,0,foul,1,0,1,0,1
+1073,260,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,O Joines,,2,0,1,ball,0,0,0,0,0
+1074,260,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,O Joines,,3,1,1,ball,0,0,0,0,0
+1075,260,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,O Joines,,4,2,1,foul,0,0,1,0,1
+1076,260,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,O Joines,,5,2,2,ball,0,1,0,0,0
+1077,260,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,O Joines,,6,3,2,swinging_strike,0,1,1,1,0
+1078,261,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,G Blake,,1,0,0,foul,1,0,1,0,1
+1079,261,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,G Blake,,2,0,1,called_strike,0,0,0,0,0
+1080,261,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,G Blake,,3,0,2,ball,0,1,0,0,0
+1081,261,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,G Blake,,4,1,2,ball,0,1,0,0,0
+1082,261,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,G Blake,,5,2,2,foul,0,1,1,0,1
+1083,261,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,G Blake,,6,2,2,foul,0,1,1,0,1
+1084,261,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,G Blake,,7,2,2,ball,0,1,0,0,0
+1085,261,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,G Blake,,8,3,2,called_strike,0,1,0,0,0
+1086,262,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,,,1,0,0,ball,1,0,0,0,0
+1087,262,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,,,2,1,0,ball,0,0,0,0,0
+1088,262,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,,,3,2,0,in_play,0,0,1,0,1
+1089,263,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,1,0,0,ball,1,0,0,0,0
+1090,263,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,2,1,0,called_strike,0,0,0,0,0
+1091,263,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,3,1,1,ball,0,0,0,0,0
+1092,263,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,4,2,1,foul,0,0,1,0,1
+1093,263,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,5,2,2,ball,0,1,0,0,0
+1094,263,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,6,3,2,ball,0,1,0,0,0
+1095,264,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,,1,0,0,ball,1,0,0,0,0
+1096,264,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,,2,1,0,called_strike,0,0,0,0,0
+1097,264,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,,3,1,1,ball,0,0,0,0,0
+1098,264,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,,4,2,1,ball,0,0,0,0,0
+1099,264,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,,5,3,1,ball,0,0,0,0,0
+1100,265,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,in_play,1,0,1,0,1
+1101,265,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,2,0,0,ball,0,0,0,0,0
+1102,266,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,,1,0,0,ball,1,0,0,0,0
+1103,266,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,,2,1,0,called_strike,0,0,0,0,0
+1104,266,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,,3,1,1,in_play,0,0,1,0,1
+1105,267,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,L Collier,,1,0,0,foul,1,0,1,0,1
+1106,267,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,L Collier,,2,0,1,ball,0,0,0,0,0
+1107,267,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,L Collier,,3,1,1,ball,0,0,0,0,0
+1108,267,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,L Collier,,4,2,1,called_strike,0,0,0,0,0
+1109,267,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,L Collier,,5,2,2,ball,0,1,0,0,0
+1110,267,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,L Collier,,6,3,2,ball,0,1,0,0,0
+1111,268,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+1112,268,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,in_play,0,0,1,0,1
+1113,268,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,3,1,0,ball,0,0,0,0,0
+1114,269,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,1,0,0,called_strike,1,0,0,0,0
+1115,269,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,2,0,1,called_strike,0,0,0,0,0
+1116,269,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,3,0,2,ball,0,1,0,0,0
+1117,269,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,4,1,2,ball,0,1,0,0,0
+1118,269,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,5,2,2,ball,0,1,0,0,0
+1119,269,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,,6,3,2,ball,0,1,0,0,0
+1120,270,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Benton,,1,0,0,swinging_strike,1,0,1,1,0
+1121,270,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Benton,,2,0,1,in_play,0,0,1,0,1
+1122,270,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Benton,,3,0,1,ball,0,0,0,0,0
+1123,271,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,in_play,1,0,1,0,1
+1124,272,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,1,0,0,foul,1,0,1,0,1
+1125,272,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,2,0,1,ball,0,0,0,0,0
+1126,272,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,3,1,1,called_strike,0,0,0,0,0
+1127,272,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,4,1,2,ball,0,1,0,0,0
+1128,272,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,5,2,2,foul,0,1,1,0,1
+1129,272,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,6,2,2,ball,0,1,0,0,0
+1130,272,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,7,3,2,foul,0,1,1,0,1
+1131,272,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,,8,3,2,ball,0,1,0,0,0
+1132,273,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+1133,273,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,called_strike,0,0,0,0,0
+1134,273,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,3,1,1,swinging_strike,0,0,1,1,0
+1135,273,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,4,1,2,ball,0,1,0,0,0
+1136,273,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,5,2,2,ball,0,1,0,0,0
+1137,274,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,1,0,0,ball,1,0,0,0,0
+1138,274,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,2,1,0,ball,0,0,0,0,0
+1139,274,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,3,2,0,called_strike,0,0,0,0,0
+1140,274,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,4,2,1,ball,0,0,0,0,0
+1141,274,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,5,3,1,swinging_strike,0,0,1,1,0
+1142,274,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,,6,3,2,in_play,0,1,1,0,1
+1143,275,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,,1,0,0,swinging_strike,1,0,1,1,0
+1144,275,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,,2,0,1,ball,0,0,0,0,0
+1145,275,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,,3,1,1,ball,0,0,0,0,0
+1146,275,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,,4,2,1,ball,0,0,0,0,0
+1147,275,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,,5,3,1,called_strike,0,0,0,0,0
+1148,275,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,,6,3,2,in_play,0,1,1,0,1
