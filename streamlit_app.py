@@ -1,2 +1,1 @@
-# streamlit_app.py
-from app_streamlit import *  # runs your existing app
+from streamlit_app_LITE_PLUS import *

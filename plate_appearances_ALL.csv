@@ -1,276 +1,62 @@
-pa_id,game_id,inning,half,offense_team,batter,outs_before,risp_flag,two_out_flag,pitcher,outcome,hit_type,pitches_in_pa,first_pitch_result,first_pitch_swing,swings,whiffs,contacts,walk_flag,hbp_flag,k_flag,ab_flag,hit_flag
-1,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,0,0,0,,Strikeout,,5,ball,0,3,2,1,0,0,1,1,0
-2,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,,1,0,0,,Fly Out,,2,ball,0,1,0,1,0,0,0,1,0
-3,2025_TESTGAME_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Palmer,2,0,1,,Strikeout,,5,ball,0,2,0,2,0,0,1,1,0
-4,2025_TESTGAME_FOR_2026,1,Bottom,Grace Christian,,0,0,0,,Fly Out,,4,called_strike,0,2,0,2,0,0,0,1,0
-5,2025_TESTGAME_FOR_2026,1,Bottom,Grace Christian,C Ellis,1,0,0,,Triple,Triple,1,in_play,1,1,0,1,0,0,0,1,1
-6,2025_TESTGAME_FOR_2026,1,Bottom,Grace Christian,L Roupe,1,1,0,,Triple,Triple,3,ball,0,2,0,2,0,0,0,1,1
-7,2025_TESTGAME_FOR_2026,1,Bottom,Grace Christian,E Bunce,1,1,0,,Strikeout,,4,called_strike,0,1,1,0,0,0,1,1,0
-8,2025_TESTGAME_FOR_2026,1,Bottom,Grace Christian,A Pena,2,1,1,J Brown,Walk,,4,ball,0,0,0,0,1,0,0,0,0
-9,2025_TESTGAME_FOR_2026,1,Bottom,Grace Christian,R Cuddy,2,0,1,J Brown,Double,Double,6,ball,0,3,2,1,0,0,0,1,1
-10,2025_TESTGAME_FOR_2026,1,Bottom,Grace Christian,,2,1,1,J Brown,Ground Out,,5,called_strike,0,2,1,1,0,0,0,1,0
-11,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,0,0,0,L McDonald,Strikeout,,6,ball,0,2,0,2,0,0,1,1,0
-12,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Fuentes,1,0,0,L McDonald,Strikeout,,6,ball,0,2,1,1,0,0,1,1,0
-13,2025_TESTGAME_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,2,0,1,L McDonald,Strikeout,,5,called_strike,0,2,1,1,0,0,1,1,0
-14,2025_TESTGAME_FOR_2026,2,Bottom,Grace Christian,,0,0,0,L McDonald,Line Out,,2,ball,0,1,0,1,0,0,0,1,0
-15,2025_TESTGAME_FOR_2026,2,Bottom,Grace Christian,J Alfonsin,1,0,0,L McDonald,Single,Single,5,ball,0,2,0,2,0,0,0,1,1
-16,2025_TESTGAME_FOR_2026,2,Bottom,Grace Christian,,1,0,0,L McDonald,Ground Out,,4,ball,0,2,1,1,0,0,0,1,0
-17,2025_TESTGAME_FOR_2026,2,Bottom,Grace Christian,,2,1,1,L McDonald,Ground Out,,5,ball,0,2,0,2,0,0,0,1,0
-18,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,A Gardner,0,0,0,L McDonald,Strikeout,,4,called_strike,0,2,2,0,0,0,1,1,0
-19,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,M Brantley,1,0,0,L McDonald,Walk,,5,called_strike,0,0,0,0,1,0,0,0,0
-20,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,J Duffield,1,0,0,L McDonald,Strikeout,,5,swinging_strike,1,1,1,0,0,0,1,1,0
-21,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,2,0,1,L McDonald,Hit By Pitch,,6,ball,0,1,0,1,0,1,0,0,0
-22,2025_TESTGAME_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,2,1,1,L McDonald,Runner Out,,4,swinging_strike,1,2,1,1,0,0,0,1,0
-23,2025_TESTGAME_FOR_2026,3,Bottom,Grace Christian,,0,0,0,L McDonald,Fly Out,,6,ball,0,4,0,4,0,0,0,1,0
-24,2025_TESTGAME_FOR_2026,3,Bottom,Grace Christian,E Bunce,1,0,0,L McDonald,Walk,,7,ball,0,3,1,2,1,0,0,0,0
-25,2025_TESTGAME_FOR_2026,3,Bottom,Grace Christian,,1,0,0,L McDonald,Hit By Pitch,,4,ball,0,0,0,0,0,1,0,0,0
-26,2025_TESTGAME_FOR_2026,3,Bottom,Grace Christian,R Cuddy,1,1,0,L McDonald,Single,Single,4,ball,0,1,0,1,0,0,0,1,1
-27,2025_TESTGAME_FOR_2026,3,Bottom,Grace Christian,C Howard,1,1,0,L McDonald,Walk,,6,ball,0,1,0,1,1,0,0,0,0
-28,2025_TESTGAME_FOR_2026,3,Bottom,Grace Christian,R Marshall,1,1,0,L McDonald,Strikeout,,5,ball,0,3,3,0,0,0,1,1,0
-29,2025_TESTGAME_FOR_2026,3,Bottom,Grace Christian,J Alfonsin,2,1,1,L McDonald,Walk,,5,ball,0,0,0,0,1,0,0,0,0
-30,2025_TESTGAME_FOR_2026,3,Bottom,Grace Christian,,2,1,1,L McDonald,Ground Out,,5,foul,1,2,0,2,0,0,0,1,0
-31,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Driver,0,0,0,L McDonald,Single,Single,1,in_play,1,1,0,1,0,0,0,1,1
-32,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,0,0,0,L McDonald,Single,Single,5,called_strike,0,1,0,1,0,0,0,1,1
-33,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,R Johnston,0,1,0,L McDonald,Single,Single,5,ball,0,1,0,1,0,0,0,1,1
-34,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Fuentes,0,1,0,L McDonald,Double,Double,5,swinging_strike,1,3,1,2,0,0,0,1,1
-35,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,0,1,0,L McDonald,Ground Out,,4,swinging_strike,1,3,2,1,0,0,0,1,0
-36,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,1,1,0,L McDonald,Sacrifice Fly,,6,foul,1,4,0,4,0,0,0,0,0
-37,2025_TESTGAME_FOR_2026,4,Top,East Wake Academy Varsity Eagles,M Brantley,2,0,1,L McDonald,Strikeout,,5,called_strike,0,1,0,1,0,0,1,1,0
-38,2025_TESTGAME_FOR_2026,4,Bottom,Grace Christian,C Ellis,0,0,0,L McDonald,Walk,,5,ball,0,0,0,0,1,0,0,0,0
-39,2025_TESTGAME_FOR_2026,4,Bottom,Grace Christian,L Roupe,0,0,0,L McDonald,Walk,,5,ball,0,0,0,0,1,0,0,0,0
-40,2025_TESTGAME_FOR_2026,4,Bottom,Grace Christian,,0,1,0,L McDonald,Fly Out,,4,ball,0,2,0,2,0,0,0,1,0
-41,2025_TESTGAME_FOR_2026,4,Bottom,Grace Christian,,1,1,0,L McDonald,Pop Out,,3,ball,0,2,0,2,0,0,0,1,0
-42,2025_TESTGAME_FOR_2026,4,Bottom,Grace Christian,R Cuddy,2,1,1,L McDonald,Strikeout,,4,ball,0,0,0,0,0,0,1,1,0
-43,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,0,0,0,L McDonald,Fly Out,,3,swinging_strike,1,2,1,1,0,0,0,1,0
-44,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,1,0,0,L McDonald,Line Out,,4,ball,0,1,0,1,0,0,0,1,0
-45,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Driver,2,0,1,A Rahming,Hit By Pitch,,2,called_strike,0,0,0,0,0,1,0,0,0
-46,2025_TESTGAME_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Palmer,2,0,1,A Rahming,Strikeout,,4,called_strike,0,3,0,3,0,0,1,1,0
-47,2025_TESTGAME_FOR_2026,5,Bottom,Grace Christian,,0,0,0,A Rahming,Fly Out,,3,ball,0,2,0,2,0,0,0,1,0
-48,2025_TESTGAME_FOR_2026,5,Bottom,Grace Christian,R Marshall,1,0,0,A Rahming,Strikeout,,6,swinging_strike,1,2,1,1,0,0,1,1,0
-49,2025_TESTGAME_FOR_2026,5,Bottom,Grace Christian,,2,0,1,A Rahming,Fly Out,,3,called_strike,0,2,0,2,0,0,0,1,0
-50,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,0,0,0,A Rahming,Strikeout,,4,ball,0,1,1,0,0,0,1,1,0
-51,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,1,0,0,A Rahming,Strikeout,,5,ball,0,1,1,0,0,0,1,1,0
-52,2025_TESTGAME_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,2,0,1,A Rahming,Strikeout,,4,ball,0,3,1,2,0,0,1,1,0
-53,2025_TESTGAME_FOR_2026,6,Bottom,Grace Christian,M Murchison,0,0,0,A Rahming,Single,Single,2,in_play,1,1,0,1,0,0,0,1,1
-54,2025_TESTGAME_FOR_2026,6,Bottom,Grace Christian,,0,0,0,A Rahming,Sacrifice Bunt,,2,foul,1,2,0,2,0,0,0,0,0
-55,2025_TESTGAME_FOR_2026,6,Bottom,Grace Christian,,1,1,0,A Rahming,Line Out,,2,ball,0,1,0,1,0,0,0,1,0
-56,2025_TESTGAME_FOR_2026,6,Bottom,Grace Christian,,2,1,1,A Rahming,Ground Out,,2,swinging_strike,1,2,1,1,0,0,0,1,0
-57,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,A Gardner,0,0,0,A Rahming,Single,Single,2,foul,1,2,0,2,0,0,0,1,1
-58,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,M Brantley,0,0,0,A Rahming,Strikeout,,5,ball,0,3,2,1,0,0,1,1,0
-59,2025_TESTGAME_FOR_2026,7,Top,East Wake Academy Varsity Eagles,J Duffield,2,0,1,A Rahming,Strikeout,,6,ball,0,0,0,0,0,0,1,1,0
-60,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Benton,0,0,0,W Holmes,Strikeout,,5,ball,0,4,1,3,0,0,1,1,0
-61,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Driver,1,0,0,W Holmes,Single,Single,5,ball,0,1,0,1,0,0,0,1,1
-62,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,D Palmer,1,0,0,W Holmes,Single,Single,3,called_strike,0,1,0,1,0,0,0,1,1
-63,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,,1,1,0,W Holmes,Sacrifice Fly,,3,ball,0,1,0,1,0,0,0,0,0
-64,TEST_GAME_2_2025_FOR_2026,1,Top,East Wake Academy Varsity Eagles,J Fuentes,2,1,1,W Holmes,Strikeout,,7,ball,0,1,1,0,0,0,1,1,0
-65,TEST_GAME_2_2025_FOR_2026,1,Bottom,Franklinton,J Zirulnik,0,0,0,W Holmes,Walk,,7,ball,0,3,2,1,1,0,0,0,0
-66,TEST_GAME_2_2025_FOR_2026,1,Bottom,Franklinton,G Watson,0,0,0,W Holmes,Single,Single,3,ball,0,2,0,2,0,0,0,1,1
-67,TEST_GAME_2_2025_FOR_2026,1,Bottom,Franklinton,C Simpson,0,1,0,W Holmes,Single,Single,7,foul,1,4,0,4,0,0,0,1,1
-68,TEST_GAME_2_2025_FOR_2026,1,Bottom,Franklinton,T Brink,0,1,0,W Holmes,Strikeout,,4,ball,0,2,2,0,0,0,1,1,0
-69,TEST_GAME_2_2025_FOR_2026,1,Bottom,Franklinton,M Seward,1,1,0,W Holmes,Walk,,5,ball,0,0,0,0,1,0,0,0,0
-70,TEST_GAME_2_2025_FOR_2026,1,Bottom,Franklinton,,1,1,0,W Holmes,Double Play,,7,called_strike,0,3,0,3,0,0,0,1,0
-71,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,R Johnston,0,0,0,W Holmes,Strikeout,,4,ball,0,3,2,1,0,0,1,1,0
-72,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,,1,0,0,W Holmes,Pop Out,,2,swinging_strike,1,2,1,1,0,0,0,1,0
-73,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,L Collier,2,0,1,W Holmes,Walk,,5,ball,0,0,0,0,1,0,0,0,0
-74,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,J Duffield,2,0,1,W Holmes,Walk,,6,called_strike,0,0,0,0,1,0,0,0,0
-75,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,D Benton,2,1,1,W Holmes,Triple,Triple,2,called_strike,0,1,0,1,0,0,0,1,1
-76,TEST_GAME_2_2025_FOR_2026,2,Top,East Wake Academy Varsity Eagles,,2,1,1,W Holmes,Line Out,,2,called_strike,0,1,0,1,0,0,0,1,0
-77,TEST_GAME_2_2025_FOR_2026,2,Bottom,Franklinton,,0,0,0,W Holmes,Error,,3,swinging_strike,1,2,1,1,0,0,0,1,0
-78,TEST_GAME_2_2025_FOR_2026,2,Bottom,Franklinton,H Deutsch,0,0,0,W Holmes,Walk,,7,ball,0,2,0,2,1,0,0,0,0
-79,TEST_GAME_2_2025_FOR_2026,2,Bottom,Franklinton,K Blackburn,0,1,0,W Holmes,Walk,,7,ball,0,3,0,3,1,0,0,0,0
-80,TEST_GAME_2_2025_FOR_2026,2,Bottom,Franklinton,J Zirulnik,0,1,0,W Holmes,Single,Single,3,called_strike,0,1,0,1,0,0,0,1,1
-81,TEST_GAME_2_2025_FOR_2026,2,Bottom,Franklinton,,0,1,0,W Holmes,Ground Out,,2,ball,0,1,0,1,0,0,0,1,0
-82,TEST_GAME_2_2025_FOR_2026,2,Bottom,Franklinton,C Simpson,1,1,0,W Holmes,Walk,,5,foul,1,1,0,1,1,0,0,0,0
-83,TEST_GAME_2_2025_FOR_2026,2,Bottom,Franklinton,,1,1,0,W Holmes,Double Play,,4,swinging_strike,1,3,1,2,0,0,0,1,0
-84,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,D Palmer,0,0,0,W Holmes,Single,Single,2,ball,0,1,0,1,0,0,0,1,1
-85,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,W Dixon,0,0,0,W Holmes,Strikeout,,5,called_strike,0,1,0,1,0,0,1,1,0
-86,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,1,0,0,W Holmes,Ground Out,,1,in_play,1,1,0,1,0,0,0,1,0
-87,TEST_GAME_2_2025_FOR_2026,3,Top,East Wake Academy Varsity Eagles,,2,1,1,W Holmes,Fly Out,,3,called_strike,0,2,0,2,0,0,0,1,0
-88,TEST_GAME_2_2025_FOR_2026,3,Bottom,Franklinton,M Seward,0,0,0,W Holmes,Strikeout,,6,ball,0,3,3,0,0,0,1,1,0
-89,TEST_GAME_2_2025_FOR_2026,3,Bottom,Franklinton,D Tober,1,0,0,W Holmes,Single,Single,2,in_play,1,1,0,1,0,0,0,1,1
-90,TEST_GAME_2_2025_FOR_2026,3,Bottom,Franklinton,R Pickrel,1,0,0,W Holmes,Walk,,8,ball,0,3,0,3,1,0,0,0,0
-91,TEST_GAME_2_2025_FOR_2026,3,Bottom,Franklinton,H Deutsch,1,1,0,W Holmes,Strikeout,,6,ball,0,3,2,1,0,0,1,1,0
-92,TEST_GAME_2_2025_FOR_2026,3,Bottom,Franklinton,,2,1,1,W Holmes,Line Out,,2,foul,1,2,0,2,0,0,0,1,0
-93,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,0,0,0,W Holmes,Ground Out,,2,ball,0,1,0,1,0,0,0,1,0
-94,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,L Collier,1,0,0,W Holmes,Double,Double,2,in_play,1,1,0,1,0,0,0,1,1
-95,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Duffield,1,1,0,W Holmes,Strikeout,,5,called_strike,0,1,1,0,0,0,1,1,0
-96,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,2,1,1,W Holmes,Hit By Pitch,,6,called_strike,0,0,0,0,0,1,0,0,0
-97,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,J Driver,2,1,1,W Holmes,Single,Single,4,ball,0,2,0,2,0,0,0,1,1
-98,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,D Palmer,2,1,1,W Holmes,Walk,,5,ball,0,1,0,1,1,0,0,0,0
-99,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,W Dixon,2,1,1,W Holmes,Walk,,5,ball,0,0,0,0,1,0,0,0,0
-100,TEST_GAME_2_2025_FOR_2026,4,Top,East Wake Academy Varsity Eagles,,2,1,1,W Holmes,Fly Out,,3,ball,0,1,0,1,0,0,0,1,0
-101,TEST_GAME_2_2025_FOR_2026,4,Bottom,Franklinton,,0,0,0,W Holmes,Pop Out,,5,ball,0,1,0,1,0,0,0,1,0
-102,TEST_GAME_2_2025_FOR_2026,4,Bottom,Franklinton,G Watson,1,0,0,W Holmes,Single,Single,6,ball,0,2,1,1,0,0,0,1,1
-103,TEST_GAME_2_2025_FOR_2026,4,Bottom,Franklinton,C Simpson,1,0,0,W Holmes,Walk,,5,ball,0,1,1,0,1,0,0,0,0
-104,TEST_GAME_2_2025_FOR_2026,4,Bottom,Franklinton,B Scott,1,1,0,W Holmes,Strikeout,,4,called_strike,0,2,2,0,0,0,1,1,0
-105,TEST_GAME_2_2025_FOR_2026,4,Bottom,Franklinton,M Seward,2,1,1,W Holmes,Strikeout,,6,ball,0,3,3,0,0,0,1,1,0
-106,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,R Johnston,0,0,0,W Holmes,Strikeout,,6,ball,0,2,2,0,0,0,1,1,0
-107,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,A Gardner,1,0,0,W Holmes,Single,Single,2,in_play,1,1,0,1,0,0,0,1,1
-108,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,L Collier,1,0,0,W Holmes,Single,Single,8,ball,0,3,0,3,0,0,0,1,1
-109,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Duffield,1,0,0,W Holmes,Walk,,4,ball,0,0,0,0,1,0,0,0,0
-110,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,D Benton,1,1,0,W Holmes,Walk,,5,ball,0,0,0,0,1,0,0,0,0
-111,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,J Driver,1,1,0,W Holmes,Strikeout,,6,ball,0,2,2,0,0,0,1,1,0
-112,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,2,1,1,W Holmes,Intentional Walk,,1,ball,0,0,0,0,1,0,0,0,0
-113,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,W Dixon,2,1,1,W Holmes,Home Run,Home Run,4,swinging_strike,1,2,1,1,0,0,0,1,1
-114,TEST_GAME_2_2025_FOR_2026,5,Top,East Wake Academy Varsity Eagles,,2,0,1,W Holmes,Fly Out,,2,ball,0,1,0,1,0,0,0,1,0
-115,TEST_GAME_2_2025_FOR_2026,5,Bottom,Franklinton,,0,0,0,W Holmes,Ground Out,,3,ball,0,1,0,1,0,0,0,1,0
-116,TEST_GAME_2_2025_FOR_2026,5,Bottom,Franklinton,R Pickrel,1,0,0,W Holmes,Strikeout,,6,ball,0,1,0,1,0,0,1,1,0
-117,TEST_GAME_2_2025_FOR_2026,5,Bottom,Franklinton,H Deutsch,2,0,1,W Holmes,Walk,,4,ball,0,0,0,0,1,0,0,0,0
-118,TEST_GAME_2_2025_FOR_2026,5,Bottom,Franklinton,K Blackburn,2,0,1,W Holmes,Strikeout,,3,called_strike,0,2,2,0,0,0,1,1,0
-119,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,0,0,0,W Holmes,Walk,,6,ball,0,1,0,1,1,0,0,0,0
-120,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,,0,0,0,W Holmes,Fielder's Choice,,3,ball,0,1,0,1,0,0,0,1,0
-121,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,L Collier,1,0,0,W Holmes,Single,Single,6,ball,0,1,0,1,0,0,0,1,1
-122,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Duffield,1,0,0,W Holmes,Single,Single,4,ball,0,1,0,1,0,0,0,1,1
-123,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,D Benton,1,1,0,W Holmes,Single,Single,4,ball,0,2,1,1,0,0,0,1,1
-124,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,,1,1,0,W Holmes,Fly Out,,2,called_strike,0,1,0,1,0,0,0,1,0
-125,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,D Palmer,2,1,1,W Holmes,Walk,,4,ball,0,0,0,0,1,0,0,0,0
-126,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,W Dixon,2,1,1,W Holmes,Single,Single,2,ball,0,1,0,1,0,0,0,1,1
-127,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,J Fuentes,2,1,1,W Holmes,Walk,,6,ball,0,2,1,1,1,0,0,0,0
-128,TEST_GAME_2_2025_FOR_2026,6,Top,East Wake Academy Varsity Eagles,R Johnston,2,1,1,W Holmes,Strikeout,,6,ball,0,2,1,1,0,0,1,1,0
-129,TEST_GAME_2_2025_FOR_2026,6,Bottom,Franklinton,,0,0,0,W Holmes,Fly Out,,1,in_play,1,1,0,1,0,0,0,1,0
-130,TEST_GAME_2_2025_FOR_2026,6,Bottom,Franklinton,G Watson,1,0,0,W Holmes,Single,Single,2,in_play,1,1,0,1,0,0,0,1,1
-131,TEST_GAME_2_2025_FOR_2026,6,Bottom,Franklinton,,1,0,0,W Holmes,Pop Out,,6,ball,0,3,1,2,0,0,0,1,0
-132,TEST_GAME_2_2025_FOR_2026,6,Bottom,Franklinton,B Scott,2,0,1,W Holmes,Strikeout,,5,ball,0,2,2,0,0,0,1,1,0
-133,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Waddell,0,0,0,,Walk,,5,called_strike,0,0,0,0,1,0,0,0,0
-134,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,K Bowen,0,0,0,,Single,Single,5,ball,0,2,0,2,0,0,0,1,1
-135,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,,0,0,0,,Fly Out,,3,foul,1,2,0,2,0,0,0,1,0
-136,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,,1,0,0,,Ground Out,,2,called_strike,0,1,0,1,0,0,0,1,0
-137,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,A Jenerette,2,1,1,,Walk,,5,called_strike,0,0,0,0,1,0,0,0,0
-138,TEST_GAME_4_EAST_COLUMBUS,1,Top,East Columbus Varsity Gators,B Mclean,2,1,1,,Strikeout,,5,swinging_strike,1,2,1,1,0,0,1,1,0
-139,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Benton,0,0,0,G Simmons,Strikeout,,8,ball,0,4,1,3,0,0,1,1,0
-140,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,J Driver,1,0,0,G Simmons,Walk,,9,swinging_strike,1,5,1,4,1,0,0,0,0
-141,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,1,0,0,G Simmons,Single,Single,5,ball,0,1,0,1,0,0,0,1,1
-142,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,W Dixon,1,0,0,G Simmons,Single,Single,5,ball,0,2,0,2,0,0,0,1,1
-143,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,,1,0,0,G Simmons,Fly Out,,3,ball,0,1,0,1,0,0,0,1,0
-144,TEST_GAME_4_EAST_COLUMBUS,1,Bottom,East Wake Academy Varsity Eagles,,2,0,1,G Simmons,Dropped 3rd Strike,,4,ball,0,2,1,1,0,0,1,1,0
-145,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,0,0,0,G Simmons,Ground Out,,5,ball,0,1,0,1,0,0,0,1,0
-146,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,1,0,0,G Simmons,Fly Out,,3,ball,0,1,0,1,0,0,0,1,0
-147,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,M Freeman,2,0,1,G Simmons,Single,Single,2,ball,0,1,0,1,0,0,0,1,1
-148,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,B Waddell,2,0,1,G Simmons,Single,Single,4,called_strike,0,1,0,1,0,0,0,1,1
-149,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Bowen,2,0,1,G Simmons,Single,Single,7,ball,0,4,1,3,0,0,0,1,1
-150,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,K Coker,2,0,1,G Simmons,Home Run,Home Run,2,in_play,1,1,0,1,0,0,0,1,1
-151,TEST_GAME_4_EAST_COLUMBUS,2,Top,East Columbus Varsity Gators,,2,0,1,G Simmons,Fly Out,,5,ball,0,2,1,1,0,0,0,1,0
-152,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,0,0,0,G Simmons,Single,Single,4,foul,1,2,0,2,0,0,0,1,1
-153,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,E Mason,0,0,0,G Simmons,Home Run,Home Run,2,in_play,1,1,0,1,0,0,0,1,1
-154,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,0,0,0,G Simmons,Home Run,Home Run,3,ball,0,1,0,1,0,0,0,1,1
-155,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,D Benton,0,0,0,G Simmons,Walk,,5,ball,0,1,0,1,1,0,0,0,0
-156,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,J Driver,0,0,0,G Simmons,Single,Single,4,ball,0,3,0,3,0,0,0,1,1
-157,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,D Palmer,0,1,0,G Simmons,Single,Single,2,in_play,1,1,0,1,0,0,0,1,1
-158,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,W Dixon,0,1,0,G Simmons,Strikeout,,4,ball,0,3,1,2,0,0,1,1,0
-159,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,1,1,0,G Simmons,Error,,4,called_strike,0,2,0,2,0,0,0,1,0
-160,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,1,1,0,G Simmons,Ground Out,,3,foul,1,3,0,3,0,0,0,1,0
-161,TEST_GAME_4_EAST_COLUMBUS,2,Bottom,East Wake Academy Varsity Eagles,,2,1,1,G Simmons,Line Out,,3,ball,0,2,1,1,0,0,0,1,0
-162,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,0,0,0,G Simmons,Dropped 3rd Strike,,7,ball,0,2,1,1,0,0,1,1,0
-163,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Mclean,1,0,0,G Simmons,Walk,,8,called_strike,0,2,0,2,1,0,0,0,0
-164,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,1,1,0,G Simmons,Error,,4,ball,0,1,0,1,0,0,0,1,0
-165,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,N Rye,1,1,0,G Simmons,Single,Single,2,ball,0,1,0,1,0,0,0,1,1
-166,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,,1,1,0,G Simmons,Fielder's Choice,,5,ball,0,3,0,3,0,0,0,1,0
-167,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,B Waddell,2,1,1,G Simmons,Strikeout,,6,called_strike,0,1,1,0,0,0,1,1,0
-168,TEST_GAME_4_EAST_COLUMBUS,3,Top,East Columbus Varsity Gators,K Bowen,3,1,0,G Simmons,Strikeout,,6,ball,0,1,1,0,0,0,1,1,0
-169,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,E Mason,0,0,0,G Simmons,Walk,,6,ball,0,0,0,0,1,0,0,0,0
-170,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,0,0,0,G Simmons,Fly Out,,7,ball,0,2,1,1,0,0,0,1,0
-171,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Benton,1,1,0,G Simmons,Strikeout,,5,ball,0,2,2,0,0,0,1,1,0
-172,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,,2,1,1,G Simmons,Hit By Pitch,,2,ball,0,0,0,0,0,1,0,0,0
-173,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,D Palmer,2,1,1,G Simmons,Walk,,5,called_strike,0,0,0,0,1,0,0,0,0
-174,TEST_GAME_4_EAST_COLUMBUS,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,2,1,1,G Simmons,Strikeout,,4,called_strike,0,2,2,0,0,0,1,1,0
-175,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,K Coker,0,0,0,G Simmons,Strikeout,,5,called_strike,0,1,1,0,0,0,1,1,0
-176,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,G Simmons,1,0,0,G Simmons,Walk,,4,ball,0,0,0,0,1,0,0,0,0
-177,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,,1,0,0,G Simmons,Ground Out,,3,ball,0,1,0,1,0,0,0,1,0
-178,TEST_GAME_4_EAST_COLUMBUS,4,Top,East Columbus Varsity Gators,B Mclean,2,1,1,G Simmons,Strikeout,,3,swinging_strike,1,3,3,0,0,0,1,1,0
-179,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,R Johnston,0,0,0,G Simmons,Strikeout,,6,called_strike,0,1,0,1,0,0,1,1,0
-180,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,L Collier,1,0,0,G Simmons,Strikeout,,3,swinging_strike,1,1,1,0,0,0,1,1,0
-181,TEST_GAME_4_EAST_COLUMBUS,4,Bottom,East Wake Academy Varsity Eagles,A Gardner,2,0,1,G Simmons,Strikeout,,5,ball,0,2,2,0,0,0,1,1,0
-182,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,L Jacobs,0,0,0,M Brantley,Hit By Pitch,,4,called_strike,0,1,1,0,0,1,0,0,0
-183,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,0,0,0,M Brantley,Strikeout,,7,ball,0,3,0,3,0,0,1,1,0
-184,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,M Freeman,1,0,0,M Brantley,Single,Single,2,ball,0,1,0,1,0,0,0,1,1
-185,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,B Waddell,1,1,0,M Brantley,Home Run,Home Run,1,in_play,1,1,0,1,0,0,0,1,1
-186,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,1,0,0,M Brantley,Error,,4,called_strike,0,2,0,2,0,0,0,1,0
-187,TEST_GAME_4_EAST_COLUMBUS,5,Top,East Columbus Varsity Gators,,1,0,0,M Brantley,Double Play,,1,in_play,1,1,0,1,0,0,0,1,0
-188,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,E Mason,0,0,0,M Brantley,Strikeout,,6,ball,0,2,1,1,0,0,1,1,0
-189,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,1,0,0,M Brantley,Home Run,Home Run,4,ball,0,2,1,1,0,0,0,1,1
-190,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,D Benton,1,0,0,M Brantley,Single,Single,2,ball,0,1,0,1,0,0,0,1,1
-191,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,,1,0,0,M Brantley,Fly Out,,3,ball,0,1,0,1,0,0,0,1,0
-192,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,,2,1,1,M Brantley,Intentional Walk,,0,,0,0,0,0,1,0,0,0,0
-193,TEST_GAME_4_EAST_COLUMBUS,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,2,1,1,M Brantley,Strikeout,,5,ball,0,1,1,0,0,0,1,1,0
-194,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,0,0,0,M Brantley,Ground Out,,7,called_strike,0,2,0,2,0,0,0,1,0
-195,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,A Jenerette,1,0,0,M Brantley,Strikeout,,6,ball,0,3,2,1,0,0,1,1,0
-196,TEST_GAME_4_EAST_COLUMBUS,6,Top,East Columbus Varsity Gators,,2,0,1,M Brantley,Line Out,,2,called_strike,0,1,0,1,0,0,0,1,0
-197,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,,0,0,0,M Brantley,Fly Out,,4,ball,0,1,0,1,0,0,0,1,0
-198,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,L Collier,1,0,0,M Brantley,Double,Double,4,ball,0,1,0,1,0,0,0,1,1
-199,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,,1,1,0,M Brantley,Fly Out,,1,in_play,1,1,0,1,0,0,0,1,0
-200,TEST_GAME_4_EAST_COLUMBUS,6,Bottom,East Wake Academy Varsity Eagles,,2,1,1,M Brantley,Line Out,,2,ball,0,1,0,1,0,0,0,1,0
-201,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,L Jacobs,0,0,0,M Brantley,Strikeout,,5,ball,0,1,1,0,0,0,1,1,0
-202,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,N Rye,1,0,0,M Brantley,Hit By Pitch,,2,called_strike,0,0,0,0,0,1,0,0,0
-203,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,M Freeman,1,0,0,M Brantley,Walk,,6,foul,1,1,0,1,1,0,0,0,0
-204,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,,1,1,0,M Brantley,Hit By Pitch,,2,called_strike,0,0,0,0,0,1,0,0,0
-205,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,,1,1,0,M Brantley,Ground Out,,4,ball,0,1,0,1,0,0,0,1,0
-206,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,K Coker,2,1,1,M Brantley,Walk,,4,ball,0,0,0,0,1,0,0,0,0
-207,TEST_GAME_4_EAST_COLUMBUS,7,Top,East Columbus Varsity Gators,,2,1,1,M Brantley,Fly Out,,1,in_play,1,1,0,1,0,0,0,1,0
-208,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,J Duffield,0,0,0,M Brantley,Strikeout,,4,called_strike,0,0,0,0,0,0,1,1,0
-209,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,D Benton,1,0,0,M Brantley,Single,Single,7,called_strike,0,3,0,3,0,0,0,1,1
-210,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,J Driver,1,0,0,M Brantley,Home Run,Home Run,3,ball,0,1,0,1,0,0,0,1,1
-211,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,D Palmer,1,0,0,K Bowen,Intentional Walk,,1,ball,0,0,0,0,1,0,0,0,0
-212,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,W Dixon,1,0,0,K Bowen,Walk,,4,ball,0,0,0,0,1,0,0,0,0
-213,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,,1,1,0,K Bowen,Fly Out,,2,called_strike,0,1,0,1,0,0,0,1,0
-214,TEST_GAME_4_EAST_COLUMBUS,7,Bottom,East Wake Academy Varsity Eagles,,2,1,1,K Bowen,Fly Out,,1,in_play,1,1,0,1,0,0,0,1,0
-215,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,A Jenerette,0,0,0,L Collier,Hit By Pitch,,2,foul,1,1,0,1,0,1,0,0,0
-216,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,B Mclean,0,0,0,L Collier,Single,Single,5,called_strike,0,2,1,1,0,0,0,1,1
-217,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,,0,0,0,L Collier,Double Play,,2,called_strike,0,1,0,1,0,0,0,1,0
-218,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,N Rye,2,0,1,L Collier,Single,Single,4,called_strike,0,2,0,2,0,0,0,1,1
-219,TEST_GAME_4_EAST_COLUMBUS,8,Top,East Columbus Varsity Gators,,2,0,1,L Collier,Runner Out,,2,foul,1,1,0,1,0,0,0,1,0
-220,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,A Gardner,0,0,0,L Collier,Strikeout,,6,called_strike,0,0,0,0,0,0,1,1,0
-221,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,E Mason,1,0,0,L Collier,Walk,,5,ball,0,0,0,0,1,0,0,0,0
-222,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,J Duffield,1,0,0,L Collier,Double,Double,4,ball,0,1,0,1,0,0,0,1,1
-223,TEST_GAME_4_EAST_COLUMBUS,8,Bottom,East Wake Academy Varsity Eagles,,1,1,0,L Collier,Fly Out,,2,in_play,1,2,0,2,0,0,0,1,0
-224,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,K Obriant,0,0,0,,Strikeout,,3,called_strike,0,2,2,0,0,0,1,1,0
-225,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,I Smoak,1,0,0,,Strikeout,,3,swinging_strike,1,1,1,0,0,0,1,1,0
-226,TEST_VS_FALLS_LAKE3,1,Top,Falls Lake,,2,0,1,,Fly Out,,3,ball,0,2,0,2,0,0,0,1,0
-227,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Benton,0,0,0,,Single,Single,4,ball,0,1,0,1,0,0,0,1,1
-228,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,J Driver,0,0,0,,Walk,,6,swinging_strike,1,1,1,0,1,0,0,0,0
-229,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,D Palmer,0,1,0,,Strikeout,,6,ball,0,1,0,1,0,0,1,1,0
-230,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,1,1,0,,Sacrifice Fly,,5,ball,0,3,0,3,0,0,0,0,0
-231,TEST_VS_FALLS_LAKE3,1,Bottom,East Wake Academy Varsity Eagles,,2,1,1,,Ground Out,,7,called_strike,0,3,0,3,0,0,0,1,0
-232,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,,0,0,0,,Dropped 3rd Strike,,5,swinging_strike,1,3,2,1,0,0,1,1,0
-233,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,K Hill,2,0,1,,Walk,,5,ball,0,0,0,0,1,0,0,0,0
-234,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,,2,0,1,,Ground Out,,3,ball,0,1,0,1,0,0,0,1,0
-235,TEST_VS_FALLS_LAKE3,2,Top,Falls Lake,C Reinhard,3,1,0,,Strikeout,,4,ball,0,1,1,0,0,0,1,1,0
-236,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,0,0,0,,Dropped 3rd Strike,,5,ball,0,3,1,2,0,0,1,1,0
-237,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,L Collier,2,0,1,,Walk,,6,ball,0,2,0,2,1,0,0,0,0
-238,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,A Gardner,2,0,1,,Walk,,6,called_strike,0,0,0,0,1,0,0,0,0
-239,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,J Duffield,2,1,1,,Walk,,6,called_strike,0,0,0,0,1,0,0,0,0
-240,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,2,1,1,,Sacrifice Fly,,5,ball,0,1,0,1,0,0,0,0,0
-241,TEST_VS_FALLS_LAKE3,2,Bottom,East Wake Academy Varsity Eagles,,3,1,0,,Pop Out,,2,called_strike,0,1,0,1,0,0,0,1,0
-242,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,0,0,0,,Ground Out,,1,in_play,1,1,0,1,0,0,0,1,0
-243,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,1,0,0,,Ground Out,,2,called_strike,0,1,0,1,0,0,0,1,0
-244,TEST_VS_FALLS_LAKE3,3,Top,Falls Lake,,2,0,1,,Line Out,,6,ball,0,1,0,1,0,0,0,1,0
-245,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,0,0,0,,Pop Out,,3,ball,0,1,0,1,0,0,0,1,0
-246,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,W Dixon,1,0,0,,Walk,,6,ball,0,0,0,0,1,0,0,0,0
-247,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,1,0,0,,Pop Out,,4,ball,0,3,0,3,0,0,0,1,0
-248,TEST_VS_FALLS_LAKE3,3,Bottom,East Wake Academy Varsity Eagles,,2,0,1,,Ground Out,,3,ball,0,1,0,1,0,0,0,1,0
-249,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,,0,0,0,,Pop Out,,1,in_play,1,1,0,1,0,0,0,1,0
-250,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,,1,0,0,,Ground Out,,4,ball,0,1,0,1,0,0,0,1,0
-251,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,N Denny,2,0,1,,Double,Double,6,swinging_strike,1,2,1,1,0,0,0,1,1
-252,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,K Hill,2,1,1,,Single,Single,4,ball,0,2,1,1,0,0,0,1,1
-253,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,B Moyers,2,0,1,,Home Run,Home Run,3,ball,0,2,0,2,0,0,0,1,1
-254,TEST_VS_FALLS_LAKE3,4,Top,Falls Lake,C Reinhard,2,0,1,,Strikeout,,3,called_strike,0,0,0,0,0,0,1,1,0
-255,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,L Collier,0,0,0,,Strikeout,,6,ball,0,2,1,1,0,0,1,1,0
-256,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,,1,0,0,,Pop Out,,1,in_play,1,1,0,1,0,0,0,1,0
-257,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,J Duffield,2,0,1,,Walk,,5,ball,0,1,1,0,1,0,0,0,0
-258,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,D Benton,2,0,1,,Walk,,6,ball,0,1,1,0,1,0,0,0,0
-259,TEST_VS_FALLS_LAKE3,4,Bottom,East Wake Academy Varsity Eagles,,2,1,1,,Line Out,,2,called_strike,0,1,0,1,0,0,0,1,0
-260,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,O Joines,0,0,0,,Strikeout,,6,foul,1,3,1,2,0,0,1,1,0
-261,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,G Blake,1,0,0,,Strikeout,,8,foul,1,3,0,3,0,0,1,1,0
-262,TEST_VS_FALLS_LAKE3,5,Top,Falls Lake,,2,0,1,,Ground Out,,3,ball,0,1,0,1,0,0,0,1,0
-263,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,0,0,0,,Walk,,6,ball,0,1,0,1,1,0,0,0,0
-264,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,W Dixon,0,0,0,,Walk,,5,ball,0,0,0,0,1,0,0,0,0
-265,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,0,1,0,,Error,,2,in_play,1,1,0,1,0,0,0,1,0
-266,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,0,1,0,,Single,Single,3,ball,0,1,0,1,0,0,0,1,1
-267,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,L Collier,0,1,0,,Walk,,6,foul,1,1,0,1,1,0,0,0,0
-268,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,0,1,0,,Error,,3,ball,0,1,0,1,0,0,0,1,0
-269,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,J Duffield,0,1,0,,Walk,,6,called_strike,0,0,0,0,1,0,0,0,0
-270,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Benton,0,1,0,,Single,Single,3,swinging_strike,1,2,1,1,0,0,0,1,1
-271,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,0,0,0,,Pop Out,,1,in_play,1,1,0,1,0,0,0,1,0
-272,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,D Palmer,1,1,0,,Walk,,8,foul,1,3,0,3,1,0,0,0,0
-273,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,1,1,0,,Hit By Pitch,,5,ball,0,1,1,0,0,1,0,0,0
-274,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,,1,1,0,,Sacrifice Fly,,6,ball,0,2,1,1,0,0,0,0,0
-275,TEST_VS_FALLS_LAKE3,5,Bottom,East Wake Academy Varsity Eagles,R Johnston,2,1,1,,Single,Single,6,swinging_strike,1,2,1,1,0,0,0,1,1
+pa_id,game_id,inning_half,inning,offense_team,batter,pitcher,outcome,hit_type,pa_flag,ab_flag,hit_flag,walk_flag,hbp_flag,k_flag,pitches_in_pa,swings_in_pa,whiffs_in_pa,contacts_in_pa,is_first_pitch_swing,is_first_pitch_strike,is_first_pitch_in_play,two_strike_swings,two_strike_whiffs,two_strike_contacts,two_strike_pa_flag,outs_before,outs_on_pa,risp_flag,two_out_flag,runner_adv_or_score_flag,rbi_flag,batted_ball_pos,spray_x,spray_y
+1,Crossroads_3_2_26,Bottom,6,Crossroads Christian,E Smith,Unknown,Fly Out,,1,1,0,0,0,0,5,2,0,2,0,0,0,1,0,1,1,0,1,0,0,0,0,2B,15.000,135.000
+2,Crossroads_3_2_26,Bottom,6,Crossroads Christian,C Paschall,Unknown,Fielder's Choice,,1,1,0,0,0,0,4,3,2,1,1,1,0,1,0,1,1,1,1,0,0,1,0,SS,-15.000,135.000
+3,Crossroads_3_2_26,Bottom,6,Crossroads Christian,T Taylor,Unknown,Single,Single,1,1,1,0,0,0,3,1,0,1,0,0,0,0,0,0,0,2,1,1,1,0,0,2B,15.000,135.000
+4,Crossroads_3_2_26,Bottom,6,Crossroads Christian,B Reagle,R Johnston,Walk,,1,0,0,1,0,0,5,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,,,
+5,Crossroads_3_2_26,Top,6,East Wake Academy Varsity Eagles,E Mason,W Anderson,Strikeout,,1,1,0,0,0,1,6,2,1,1,0,1,0,2,1,1,1,0,1,0,0,0,0,,,
+6,Crossroads_3_2_26,Top,6,East Wake Academy Varsity Eagles,R Johnston,W Anderson,Single,Single,1,1,1,0,0,0,4,2,1,1,0,1,0,1,0,1,1,1,0,0,0,1,1,3B,-70.000,100.000
+7,Crossroads_3_2_26,Top,6,East Wake Academy Varsity Eagles,D Benton,W Anderson,Fielder's Choice,,1,1,0,0,0,0,3,1,0,1,0,1,0,1,0,1,1,1,1,0,0,1,0,1B,70.000,100.000
+8,Crossroads_3_2_26,Top,6,East Wake Academy Varsity Eagles,L Collier,W Anderson,Walk,,1,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,,,
+9,Crossroads_3_2_26,Top,6,East Wake Academy Varsity Eagles,J Bailey,W Anderson,Fielder's Choice,,1,1,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,3,0,1,0,1,0,1B,70.000,100.000
+10,Crossroads_3_2_26,Top,6,East Wake Academy Varsity Eagles,C Mason,W Anderson,Hit By Pitch,,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,,,
+11,Crossroads_3_2_26,Bottom,5,Crossroads Christian,J Douglas,R Johnston,Strikeout,,1,1,0,0,0,1,6,2,1,1,0,1,0,1,1,0,1,0,1,0,0,0,0,,,
+12,Crossroads_3_2_26,Bottom,5,Crossroads Christian,R Wilson,R Johnston,Walk,,1,0,0,1,0,0,6,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,,,
+13,Crossroads_3_2_26,Bottom,5,Crossroads Christian,A Smith,R Johnston,Walk,,1,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,,,
+14,Crossroads_3_2_26,Bottom,5,Crossroads Christian,T Wilson,R Johnston,Sacrifice Fly,,1,0,0,0,0,0,2,2,0,2,1,1,0,0,0,0,0,1,1,1,0,1,1,LF,-140.000,235.000
+15,Crossroads_3_2_26,Bottom,5,Crossroads Christian,B Adcock,R Johnston,Hit By Pitch,,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,0,,,
+16,Crossroads_3_2_26,Bottom,5,Crossroads Christian,E Smith,R Johnston,Fielder's Choice,,1,1,0,0,0,0,4,1,0,1,0,1,0,1,0,1,1,2,0,1,1,1,0,2B,15.000,135.000
+17,Crossroads_3_2_26,Bottom,5,Crossroads Christian,C Paschall,R Johnston,Walk,,1,0,0,1,0,0,7,2,1,1,0,0,0,1,0,1,1,2,0,1,1,0,0,,,
+18,Crossroads_3_2_26,Bottom,5,Crossroads Christian,T Taylor,R Johnston,Strikeout,,1,1,0,0,0,1,4,0,0,0,0,1,0,0,0,0,0,2,1,0,1,0,0,,,
+19,Crossroads_3_2_26,Top,5,East Wake Academy Varsity Eagles,N Rodriguez,W Anderson,Fly Out,,1,1,0,0,0,0,5,2,0,2,0,1,0,1,0,1,1,0,1,0,0,0,0,CF,0.000,265.000
+20,Crossroads_3_2_26,Top,5,East Wake Academy Varsity Eagles,C Leonard,W Anderson,Single,Single,1,1,1,0,0,0,2,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,LF,-140.000,235.000
+21,Crossroads_3_2_26,Top,5,East Wake Academy Varsity Eagles,A Gardner,W Anderson,Double Play,,1,1,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,1,2,0,0,0,0,SS,-15.000,135.000
+22,Crossroads_3_2_26,Top,5,East Wake Academy Varsity Eagles,E Mason,J Anderson,Hit By Pitch,,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,,
+23,Crossroads_3_2_26,Top,5,East Wake Academy Varsity Eagles,R Johnston,J Anderson,Home Run,Home Run,1,1,1,0,0,0,1,1,0,1,1,1,1,0,0,0,0,3,0,0,0,0,0,,,
+24,Crossroads_3_2_26,Bottom,4,Crossroads Christian,B Reagle,L Collier,Strikeout,,1,1,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+25,Crossroads_3_2_26,Bottom,4,Crossroads Christian,J Douglas,L Collier,Strikeout,,1,1,0,0,0,1,4,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,,,
+26,Crossroads_3_2_26,Bottom,4,Crossroads Christian,R Wilson,L Collier,Strikeout,,1,1,0,0,0,1,3,3,2,1,1,1,0,1,1,0,1,2,1,0,1,0,0,,,
+27,Crossroads_3_2_26,Top,4,East Wake Academy Varsity Eagles,D Benton,J Anderson,Ground Out,,1,1,0,0,0,0,4,3,1,2,1,1,0,1,0,1,1,0,1,0,0,0,0,P,0.000,60.000
+28,Crossroads_3_2_26,Top,4,East Wake Academy Varsity Eagles,L Collier,J Anderson,Hit By Pitch,,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,
+29,Crossroads_3_2_26,Top,4,East Wake Academy Varsity Eagles,J Bailey,J Anderson,Fly Out,,1,1,0,0,0,0,7,3,1,2,0,0,0,2,0,2,1,1,1,1,0,1,0,CF,0.000,265.000
+30,Crossroads_3_2_26,Top,4,East Wake Academy Varsity Eagles,C Mason,J Anderson,Single,Single,1,1,1,0,0,0,6,2,0,2,0,1,0,2,0,2,1,2,0,1,1,0,0,2B,15.000,135.000
+31,Crossroads_3_2_26,Top,4,East Wake Academy Varsity Eagles,N Rodriguez,J Anderson,Ground Out,,1,1,0,0,0,0,3,2,1,1,1,1,0,0,0,0,0,2,1,0,1,0,0,SS,-15.000,135.000
+32,Crossroads_3_2_26,Bottom,3,Crossroads Christian,A Smith,L Collier,Ground Out,,1,1,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1B,70.000,100.000
+33,Crossroads_3_2_26,Bottom,3,Crossroads Christian,T Wilson,L Collier,Single,Single,1,1,1,0,0,0,1,1,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,RF,140.000,235.000
+34,Crossroads_3_2_26,Bottom,3,Crossroads Christian,B Adcock,L Collier,Single,Single,1,1,1,0,0,0,5,2,1,1,1,1,0,1,0,1,1,1,0,1,0,0,0,SS,-15.000,135.000
+35,Crossroads_3_2_26,Bottom,3,Crossroads Christian,E Smith,L Collier,Ground Out,,1,1,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,P,0.000,60.000
+36,Crossroads_3_2_26,Bottom,3,Crossroads Christian,C Paschall,L Collier,Fly Out,,1,1,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,2,1,0,1,0,0,RF,140.000,235.000
+37,Crossroads_3_2_26,Top,3,East Wake Academy Varsity Eagles,C Leonard,J Anderson,Fly Out,,1,1,0,0,0,0,2,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,SS,-15.000,135.000
+38,Crossroads_3_2_26,Top,3,East Wake Academy Varsity Eagles,A Gardner,J Anderson,Fielder's Choice,,1,1,0,0,0,0,2,1,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,3B,-70.000,100.000
+39,Crossroads_3_2_26,Top,3,East Wake Academy Varsity Eagles,E Mason,T Wilson,Walk,,1,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,,,
+40,Crossroads_3_2_26,Top,3,East Wake Academy Varsity Eagles,R Johnston,T Wilson,Single,Single,1,1,1,0,0,0,3,1,0,1,0,0,0,0,0,0,0,2,0,1,1,1,1,SS,-15.000,135.000
+41,Crossroads_3_2_26,Top,3,East Wake Academy Varsity Eagles,D Benton,T Wilson,Double,Double,1,1,1,0,0,0,2,1,0,1,0,1,0,0,0,0,0,2,0,0,1,1,1,RF,140.000,235.000
+42,Crossroads_3_2_26,Top,3,East Wake Academy Varsity Eagles,L Collier,T Wilson,Single,Single,1,1,1,0,0,0,1,1,0,1,1,1,1,0,0,0,0,2,0,1,1,0,0,LF,-140.000,235.000
+43,Crossroads_3_2_26,Top,3,East Wake Academy Varsity Eagles,J Bailey,T Wilson,Ground Out,,1,1,0,0,0,0,9,5,0,5,0,1,0,4,0,4,1,2,1,1,1,0,0,1B,70.000,100.000
+44,Crossroads_3_2_26,Bottom,2,Crossroads Christian,T Taylor,L Collier,Strikeout,,1,1,0,0,0,1,4,2,2,0,1,1,0,1,1,0,1,0,1,0,0,0,0,,,
+45,Crossroads_3_2_26,Bottom,2,Crossroads Christian,B Reagle,L Collier,Strikeout,,1,1,0,0,0,1,5,3,3,0,1,1,0,1,1,0,1,1,1,0,0,0,0,,,
+46,Crossroads_3_2_26,Bottom,2,Crossroads Christian,J Douglas,L Collier,Walk,,1,0,0,1,0,0,6,2,1,1,0,0,0,0,0,0,0,2,0,0,1,0,0,,,
+47,Crossroads_3_2_26,Bottom,2,Crossroads Christian,R Wilson,L Collier,Ground Out,,1,1,0,0,0,0,3,2,1,1,1,1,0,0,0,0,0,2,1,0,1,0,0,SS,-15.000,135.000
+48,Crossroads_3_2_26,Top,2,East Wake Academy Varsity Eagles,,T Wilson,Runner Out,,0,0,0,0,0,0,5,2,1,1,0,1,0,1,0,1,1,0,2,0,0,0,0,,,
+49,Crossroads_3_2_26,Top,2,East Wake Academy Varsity Eagles,C Mason,T Wilson,Fly Out,,1,1,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,2,1,0,1,0,0,SS,-15.000,135.000
+50,Crossroads_3_2_26,Top,2,East Wake Academy Varsity Eagles,N Rodriguez,T Wilson,Single,Single,1,1,1,0,0,0,5,1,0,1,0,0,0,0,0,0,0,3,0,0,0,1,0,LF,-140.000,235.000
+51,Crossroads_3_2_26,Top,2,East Wake Academy Varsity Eagles,C Leonard,T Wilson,Pop Out,,1,1,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,3,0,1,0,0,0,C,0.000,20.000
+52,Crossroads_3_2_26,Top,2,East Wake Academy Varsity Eagles,A Gardner,T Wilson,Dropped 3rd Strike,,1,1,0,0,0,1,5,1,1,0,0,1,0,1,1,0,1,3,0,1,0,1,0,,,
+53,Crossroads_3_2_26,Top,2,East Wake Academy Varsity Eagles,E Mason,T Wilson,Walk,,1,0,0,1,0,0,6,1,1,0,0,0,0,0,0,0,0,3,0,1,0,0,0,,,
+54,Crossroads_3_2_26,Bottom,1,Crossroads Christian,A Smith,L Collier,Ground Out,,1,1,0,0,0,0,4,2,0,2,1,1,0,0,0,0,0,0,1,0,0,0,0,2B,15.000,135.000
+55,Crossroads_3_2_26,Bottom,1,Crossroads Christian,T Wilson,L Collier,Fly Out,,1,1,0,0,0,0,2,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,CF,0.000,265.000
+56,Crossroads_3_2_26,Bottom,1,Crossroads Christian,B Adcock,L Collier,Strikeout,,1,1,0,0,0,1,5,3,2,1,0,0,0,1,1,0,1,2,1,0,1,0,0,,,
+57,Crossroads_3_2_26,Bottom,1,Crossroads Christian,E Smith,L Collier,Single,Single,1,1,1,0,0,0,4,3,0,3,0,0,0,1,0,1,1,3,0,0,0,0,0,1B,70.000,100.000
+58,Crossroads_3_2_26,Top,1,East Wake Academy Varsity Eagles,R Johnston,T Wilson,Strikeout,,1,1,0,0,0,1,4,2,2,0,0,1,0,1,1,0,1,0,1,0,0,0,0,,,
+59,Crossroads_3_2_26,Top,1,East Wake Academy Varsity Eagles,D Benton,T Wilson,Walk,,1,0,0,1,0,0,5,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,,
+60,Crossroads_3_2_26,Top,1,East Wake Academy Varsity Eagles,L Collier,T Wilson,Strikeout,,1,1,0,0,0,1,3,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,,,
+61,Crossroads_3_2_26,Top,1,East Wake Academy Varsity Eagles,J Bailey,T Wilson,Strikeout,,1,1,0,0,0,1,6,1,1,0,0,0,0,1,1,0,1,2,1,0,1,0,0,,,
