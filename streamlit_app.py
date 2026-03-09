@@ -1,1 +1,3 @@
-from streamlit_app_LITE_PLUS import *
+import streamlit as st
+st.title("EWA Dashboard Deploy Test")
+st.write("If you see this, deployment is healthy.")
