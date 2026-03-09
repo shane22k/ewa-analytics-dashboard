@@ -1,1 +1,1 @@
-from streamlit_app_LITE import *
+from streamlit_quickcheck import *
