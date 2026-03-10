@@ -43,6 +43,13 @@ def num(v):
     return pd.to_numeric(v, errors="coerce")
 
 
+def to_float(v):
+    n = pd.to_numeric(v, errors="coerce")
+    if pd.isna(n):
+        return np.nan
+    return float(n)
+
+
 def safe_div(n, d):
     n = num(n)
     d = num(d)
@@ -50,20 +57,22 @@ def safe_div(n, d):
 
 
 def as_pct_value(v):
-    if pd.isna(v):
+    f = to_float(v)
+    if pd.isna(f):
         return np.nan
-    f = float(v)
     if f <= 1.5:
         f *= 100.0
     return f
 
 
 def fmt3(x):
-    return "—" if pd.isna(x) else f"{float(x):.3f}"
+    f = to_float(x)
+    return "—" if pd.isna(f) else f"{f:.3f}"
 
 
 def fmt1pct(x):
-    return "—" if pd.isna(x) else f"{float(x):.1f}%"
+    f = to_float(x)
+    return "—" if pd.isna(f) else f"{f:.1f}%"
 
 
 def metric_card(label: str, value: str, cls: str = "kpi-neutral"):
@@ -305,17 +314,21 @@ with tabs[2]:
         obp_v = r.get("OBP", np.nan)
         k_v = as_pct_value(r.get("K%", np.nan))
         ppa_v = r.get("P/PA", np.nan)
+        avg_f = to_float(avg_v)
+        obp_f = to_float(obp_v)
+        ppa_f = to_float(ppa_v)
+        pa_f = to_float(pa_v)
 
         with c1:
-            metric_card("PA", "—" if pd.isna(pa_v) else str(int(float(pa_v))))
+            metric_card("PA", "—" if pd.isna(pa_f) else str(int(pa_f)))
         with c2:
-            metric_card("AVG", fmt3(avg_v), "kpi-good" if pd.notna(avg_v) and float(avg_v) >= 0.333 else "kpi-bad")
+            metric_card("AVG", fmt3(avg_v), "kpi-good" if pd.notna(avg_f) and avg_f >= 0.333 else "kpi-bad")
         with c3:
-            metric_card("OBP", fmt3(obp_v), "kpi-good" if pd.notna(obp_v) and float(obp_v) >= 0.400 else "kpi-bad")
+            metric_card("OBP", fmt3(obp_v), "kpi-good" if pd.notna(obp_f) and obp_f >= 0.400 else "kpi-bad")
         with c4:
             metric_card("K%", fmt1pct(k_v), "kpi-good" if pd.notna(k_v) and float(k_v) <= 25 else "kpi-bad")
         with c5:
-            metric_card("P/PA", fmt3(ppa_v), "kpi-good" if pd.notna(ppa_v) and float(ppa_v) >= 4.5 else "kpi-bad")
+            metric_card("P/PA", fmt3(ppa_v), "kpi-good" if pd.notna(ppa_f) and ppa_f >= 4.5 else "kpi-bad")
 
     st.markdown("### Hitting")
     if not row_bat.empty:
