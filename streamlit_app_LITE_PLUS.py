@@ -114,6 +114,12 @@ def show_df(df: pd.DataFrame, fit_rows: bool = False):
         st.dataframe(show, width="stretch", hide_index=True)
 
 
+def show_df_light(df: pd.DataFrame):
+    # Light renderer used in Player Profile to avoid occasional frontend lockups.
+    show = prettify_columns(round_display(df)).reset_index(drop=True)
+    st.table(show)
+
+
 def normalize_pct_col(df, col):
     if col not in df.columns:
         return
@@ -337,7 +343,7 @@ with tabs[2]:
         st.markdown("### Hitting")
         if not row_bat.empty:
             keep = [c for c in ["batter", "PA", "AB", "H", "XBH", "BB", "HBP", "K", "AVG", "OBP", "K%", "QAB%"] if c in row_bat.columns]
-            show_df(row_bat[keep].rename(columns={"batter": "Batter"}))
+            show_df_light(row_bat[keep].rename(columns={"batter": "Batter"}))
 
         st.markdown("### Discipline + Situational")
         disc_row = pd.DataFrame()
@@ -356,9 +362,9 @@ with tabs[2]:
             st.info("No discipline or RISP rows for this player yet.")
         else:
             if not disc_row.empty:
-                show_df(disc_row)
+                show_df_light(disc_row)
             if not risp_row.empty:
-                show_df(risp_row)
+                show_df_light(risp_row)
 
         st.markdown("### Spray Chart")
         pa_spray = pa_all[pa_all["batter"] == player].copy() if (not pa_all.empty and "batter" in pa_all.columns) else pd.DataFrame()
