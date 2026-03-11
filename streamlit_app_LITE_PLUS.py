@@ -183,6 +183,10 @@ def render_spray_svg(pa_player: pd.DataFrame):
         "LF": (285, 165), "CF": (400, 120), "RF": (515, 165), "P": (400, 330), "C": (400, 385),
     }
 
+    # Guardrail: keep rendering bounded even if file unexpectedly has a large volume.
+    if len(df) > 500:
+        df = df.tail(500).copy()
+
     rows = []
     counts = defaultdict(int)
     for _, r in df.iterrows():
@@ -292,78 +296,81 @@ with tabs[1]:
 
 with tabs[2]:
     st.subheader("Player Profile")
+    try:
+        batters = []
+        if not bat.empty and "batter" in bat.columns:
+            batters = sorted([b for b in bat["batter"].dropna().unique().tolist() if str(b).lower() != "nan" and str(b).strip() != ""])
 
-    batters = []
-    if not bat.empty and "batter" in bat.columns:
-        batters = sorted([b for b in bat["batter"].dropna().unique().tolist() if str(b).lower() != "nan" and str(b).strip() != ""])
+        if not batters:
+            st.warning("No players found.")
+            st.stop()
 
-    if not batters:
-        st.warning("No players found.")
-        st.stop()
+        player = st.selectbox("Player", batters)
 
-    player = st.selectbox("Player", batters)
+        row_bat = bat[bat["batter"] == player].copy() if "batter" in bat.columns else pd.DataFrame()
+        row_disc = disc[disc["batter"] == player].copy() if (not disc.empty and "batter" in disc.columns) else pd.DataFrame()
 
-    row_bat = bat[bat["batter"] == player].copy() if "batter" in bat.columns else pd.DataFrame()
-    row_disc = disc[disc["batter"] == player].copy() if (not disc.empty and "batter" in disc.columns) else pd.DataFrame()
+        c1, c2, c3, c4, c5 = st.columns(5)
+        if not row_bat.empty:
+            r = row_bat.iloc[0]
+            pa_v = r.get("PA", np.nan)
+            avg_v = r.get("AVG", np.nan)
+            obp_v = r.get("OBP", np.nan)
+            k_v = as_pct_value(r.get("K%", np.nan))
+            ppa_v = r.get("P/PA", np.nan)
+            avg_f = to_float(avg_v)
+            obp_f = to_float(obp_v)
+            ppa_f = to_float(ppa_v)
+            pa_f = to_float(pa_v)
 
-    c1, c2, c3, c4, c5 = st.columns(5)
-    if not row_bat.empty:
-        r = row_bat.iloc[0]
-        pa_v = r.get("PA", np.nan)
-        avg_v = r.get("AVG", np.nan)
-        obp_v = r.get("OBP", np.nan)
-        k_v = as_pct_value(r.get("K%", np.nan))
-        ppa_v = r.get("P/PA", np.nan)
-        avg_f = to_float(avg_v)
-        obp_f = to_float(obp_v)
-        ppa_f = to_float(ppa_v)
-        pa_f = to_float(pa_v)
+            with c1:
+                metric_card("PA", "—" if pd.isna(pa_f) else str(int(pa_f)))
+            with c2:
+                metric_card("AVG", fmt3(avg_v), "kpi-good" if pd.notna(avg_f) and avg_f >= 0.333 else "kpi-bad")
+            with c3:
+                metric_card("OBP", fmt3(obp_v), "kpi-good" if pd.notna(obp_f) and obp_f >= 0.400 else "kpi-bad")
+            with c4:
+                metric_card("K%", fmt1pct(k_v), "kpi-good" if pd.notna(k_v) and float(k_v) <= 25 else "kpi-bad")
+            with c5:
+                metric_card("P/PA", fmt3(ppa_v), "kpi-good" if pd.notna(ppa_f) and ppa_f >= 4.5 else "kpi-bad")
 
-        with c1:
-            metric_card("PA", "—" if pd.isna(pa_f) else str(int(pa_f)))
-        with c2:
-            metric_card("AVG", fmt3(avg_v), "kpi-good" if pd.notna(avg_f) and avg_f >= 0.333 else "kpi-bad")
-        with c3:
-            metric_card("OBP", fmt3(obp_v), "kpi-good" if pd.notna(obp_f) and obp_f >= 0.400 else "kpi-bad")
-        with c4:
-            metric_card("K%", fmt1pct(k_v), "kpi-good" if pd.notna(k_v) and float(k_v) <= 25 else "kpi-bad")
-        with c5:
-            metric_card("P/PA", fmt3(ppa_v), "kpi-good" if pd.notna(ppa_f) and ppa_f >= 4.5 else "kpi-bad")
+        st.markdown("### Hitting")
+        if not row_bat.empty:
+            keep = [c for c in ["batter", "PA", "AB", "H", "XBH", "BB", "HBP", "K", "AVG", "OBP", "K%", "QAB%"] if c in row_bat.columns]
+            show_df(row_bat[keep].rename(columns={"batter": "Batter"}))
 
-    st.markdown("### Hitting")
-    if not row_bat.empty:
-        keep = [c for c in ["batter", "PA", "AB", "H", "XBH", "BB", "HBP", "K", "AVG", "OBP", "K%", "QAB%"] if c in row_bat.columns]
-        show_df(row_bat[keep].rename(columns={"batter": "Batter"}))
+        st.markdown("### Discipline + Situational")
+        disc_row = pd.DataFrame()
+        if not row_disc.empty:
+            disc_row = row_disc.rename(columns={"batter": "Batter"}).copy()
+            if "Batter" in disc_row.columns and not two_k_avg.empty:
+                disc_row = disc_row.merge(two_k_avg[["Batter", "2K AVG"]], on="Batter", how="left")
+            keep = [c for c in ["Batter", "1stPitchSwing%", "2K AVG", "2K_Swing%", "2K_Whiff%", "2K_Contact%", "Swing%", "Whiff%", "Contact%"] if c in disc_row.columns]
+            disc_row = disc_row[keep]
 
-    st.markdown("### Discipline + Situational")
-    disc_row = pd.DataFrame()
-    if not row_disc.empty:
-        disc_row = row_disc.rename(columns={"batter": "Batter"}).copy()
-        if "Batter" in disc_row.columns and not two_k_avg.empty:
-            disc_row = disc_row.merge(two_k_avg[["Batter", "2K AVG"]], on="Batter", how="left")
-        keep = [c for c in ["Batter", "1stPitchSwing%", "2K AVG", "2K_Swing%", "2K_Whiff%", "2K_Contact%", "Swing%", "Whiff%", "Contact%"] if c in disc_row.columns]
-        disc_row = disc_row[keep]
+        risp_row = pd.DataFrame()
+        if not risp_qab.empty:
+            risp_row = risp_qab[risp_qab["Batter"] == player].copy()
 
-    risp_row = pd.DataFrame()
-    if not risp_qab.empty:
-        risp_row = risp_qab[risp_qab["Batter"] == player].copy()
+        if disc_row.empty and risp_row.empty:
+            st.info("No discipline or RISP rows for this player yet.")
+        else:
+            if not disc_row.empty:
+                show_df(disc_row)
+            if not risp_row.empty:
+                show_df(risp_row)
 
-    if disc_row.empty and risp_row.empty:
-        st.info("No discipline or RISP rows for this player yet.")
-    else:
-        if not disc_row.empty:
-            show_df(disc_row)
-        if not risp_row.empty:
-            show_df(risp_row)
-
-    st.markdown("### Spray Chart")
-    pa_spray = pa_all[pa_all["batter"] == player].copy() if (not pa_all.empty and "batter" in pa_all.columns) else pd.DataFrame()
-    spray_svg = render_spray_svg(pa_spray)
-    if spray_svg is None:
-        st.info("Spray chart data not ready yet. Re-run build_2026.py after using the latest fixed build script.")
-    else:
-        st.markdown(spray_svg, unsafe_allow_html=True)
-        st.caption("Green lines = hits, gray lines = outs")
+        st.markdown("### Spray Chart")
+        pa_spray = pa_all[pa_all["batter"] == player].copy() if (not pa_all.empty and "batter" in pa_all.columns) else pd.DataFrame()
+        spray_svg = render_spray_svg(pa_spray)
+        if spray_svg is None:
+            st.info("Spray chart data not ready yet. Re-run build_2026.py after using the latest fixed build script.")
+        else:
+            st.markdown(spray_svg, unsafe_allow_html=True)
+            st.caption("Green lines = hits, gray lines = outs")
+    except Exception as e:
+        st.error(f"Player Profile error: {e}")
+        st.exception(e)
 
 with tabs[3]:
     st.subheader("Team Stats")
