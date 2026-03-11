@@ -189,9 +189,9 @@ def render_spray_svg(pa_player: pd.DataFrame):
         "LF": (285, 165), "CF": (400, 120), "RF": (515, 165), "P": (400, 330), "C": (400, 385),
     }
 
-    # Guardrail: keep rendering bounded even if file unexpectedly has a large volume.
-    if len(df) > 500:
-        df = df.tail(500).copy()
+    # Guardrail: keep rendering very bounded for cloud stability.
+    if len(df) > 120:
+        df = df.tail(120).copy()
 
     rows = []
     counts = defaultdict(int)
@@ -226,6 +226,9 @@ def render_spray_svg(pa_player: pd.DataFrame):
 
     if not rows:
         return None
+
+    # Hard cap output primitives to avoid frontend lockups.
+    rows = rows[:80]
 
     lines = []
     for x2, y2, color in rows:
@@ -367,13 +370,16 @@ with tabs[2]:
                 show_df_light(risp_row)
 
         st.markdown("### Spray Chart")
-        pa_spray = pa_all[pa_all["batter"] == player].copy() if (not pa_all.empty and "batter" in pa_all.columns) else pd.DataFrame()
-        spray_svg = render_spray_svg(pa_spray)
-        if spray_svg is None:
-            st.info("Spray chart data not ready yet. Re-run build_2026.py after using the latest fixed build script.")
-        else:
-            st.markdown(spray_svg, unsafe_allow_html=True)
-            st.caption("Green lines = hits, gray lines = outs")
+        try:
+            pa_spray = pa_all[pa_all["batter"] == player].copy() if (not pa_all.empty and "batter" in pa_all.columns) else pd.DataFrame()
+            spray_svg = render_spray_svg(pa_spray)
+            if spray_svg is None:
+                st.info("No spray chart balls in play yet.")
+            else:
+                st.markdown(spray_svg, unsafe_allow_html=True)
+                st.caption("Green lines = hits, gray lines = outs")
+        except Exception as spray_err:
+            st.warning(f"Spray chart unavailable for this player right now: {spray_err}")
     except Exception as e:
         st.error(f"Player Profile error: {e}")
         st.exception(e)
